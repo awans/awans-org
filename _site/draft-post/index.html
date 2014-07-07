@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      The Ideal Cat Stimulus &middot; awans.org
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+  <!-- Scripts -->
+  <script src="/public/js/salt.js" defer></script>
+  <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+</head>
+
+
+  <body>
+
+    <div class="sidebar">
+  <div class="container">
+    <div class="sidebar-about">
+      <a href="/"><img class="emblem" src="/public/astro.png"></a>
+      <p class="lead">A BLOG OF SALT, SALT AND FORGETTING</p>
+    </div>
+
+    <ul class="sidebar-nav">
+        
+        
+          
+            
+          
+        
+          
+            
+            <li class="sidebar-nav-item" data-postid="about.md">
+              <a href="/about.html">About</a>
+            </li>
+            
+          
+        
+          
+        
+          
+            
+          
+        
+          
+            
+          
+        
+      
+      
+        
+          
+            <li data-postid="/draft-post" class="sidebar-nav-item active">
+              <a href="/draft-post/">The Ideal Cat Stimulus</a>
+            </li>
+          
+        
+      
+        
+          
+            <li data-postid="/mental-health" class="sidebar-nav-item">
+              <a href="/mental-health/">Mental Health</a>
+            </li>
+          
+        
+      
+        
+          
+            <li data-postid="/pixelsorting" class="sidebar-nav-item">
+              <a href="/pixelsorting/">Pixel Sorting</a>
+            </li>
+          
+        
+      
+        
+          
+            <li data-postid="/invisible-cities" class="sidebar-nav-item">
+              <a href="/invisible-cities/">Invisible Cities</a>
+            </li>
+          
+        
+      
+        
+          
+            <li data-postid="/kilimanjaro-journal" class="sidebar-nav-item">
+              <a href="/kilimanjaro-journal/">In Which I Climb Kilimanjaro with Joe</a>
+            </li>
+          
+        
+      
+        
+          
+            <li data-postid="/hats-robots" class="sidebar-nav-item">
+              <a href="/hats-robots/">Hats, Robots and the Axiom of Choice</a>
+            </li>
+          
+        
+      
+      <li>
+        <a class="sidebar-nav-item moretoggle" href="#">More</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+    <div class="content container">
+      <div class="post" data-postid="/draft-post">
+  <h1 class="post-title">The Ideal Cat Stimulus</h1>
+  <span class="post-date">06 May 2014</span>
+  <p>This is an essay that tries to string together a bunch of concepts I&#39;ve had floating around for the last several years. May it provide some food for thought if not real insight.</p>
+
+<h2>What is a Cat?</h2>
+
+<p>There are a <a href="LINK">lot</a> of <a href="LINK">cats</a> out there. But what makes them cats? What gives them their cat-ness?</p>
+
+<p>Plato&#39;s <a href="LINK">Theory of Forms</a> casts the universe into two worlds: the world of Forms and the world of mimes, our world. Somewhere out there in the world of Forms is the ideal form of a cat. Likewise, there&#39;s the ideal form of a table, a rock and so on. The world of Forms isn&#39;t just inhabited by ordinary objects, important concepts are there as well: Justice, Virtue, and so on.</p>
+
+<p>Down here in the world of mimes, we don&#39;t get to see the true forms, merely their shadows—projections from that ideal world into our own. So while we can gain some knowledge, some sense of what cat-ness or justice is, we can&#39;t really know what a cat <em>is</em>.</p>
+
+<h2>What is a Concept?</h2>
+
+<p>One way to understand confusing systems is to try to re-construct them from scratch. If you can successfully replicate the behavior of a system, that doesn&#39;t mean you&#39;ve discovered its exact inner workings, but it might give you a good model for thinking about it, or making predictions about what the real system might do in different situations.</p>
+
+<p>So let&#39;s think of cat-ness in terms of a function. Let&#39;s say my function <em>isCatish</em> takes a SensoryInput parameter. SensoryInput contains all of the raw visual pixels, depth information, sounds, smells and so on. Given a SensoryInput, isCatish will return a score from 1-100 as to how &quot;catish&quot; a given set of sensory inputs are.</p>
+
+<p>So isCatish will return high scores when you&#39;re viewing a YouTube video of cats, when you see a cartoon cat, or when a real cat is scratching your leg. </p>
+
+<p>So how would you build isCatish? It&#39;s pretty tough, and for a long time we weren&#39;t very good at it. But in the last few years, we&#39;ve made an impressive amount of progress.</p>
+
+<h2>Machine Learning and Computer Vision</h2>
+
+<p>The Google Brain team has done a bunch of research on a new flavor of machine learning system. It does unsupervised learning in a specific layered way. When you apply this sort of machine learning to computer vision problems, it learns in a manner broadly similar to our visual cortex—first finding edges and corners, and assembling those features into higher order shapes.</p>
+
+<p>It&#39;s beaten all sorts of CV records. Consider the ImageNet challenge. The Brain algorithm had to look at images of objects and correctly identify what was in the image. It&#39;s a hard task for humans as well as machine learning algorithms. To give you a sense of the sort of objects you have to identify, it involves differentiating between different sub-species of manta ray.</p>
+
+<p>Two other interesting properties of the sort of machine learning algorithm implemented by the Google Brain infrastructure: it&#39;s highly general, and it&#39;s unsupervised.</p>
+
+<p>By &quot;highly general&quot;, I mean it can learn a single model over different input types—images and text, for example. That means if it looks at the pixels of an image isn&#39;t sure if it sees &quot;Lion, Cheetah, Vending Machine&quot; or &quot;Lion, Cheetah, Gazelle&quot;, it can infer that the latter triple is more likely because the concepts co-occur more frequently on wikipedia.</p>
+
+<p>By &quot;unsupervised&quot;, I mean it learns without human instruction. Some machine learning systems are &quot;supervised&quot;; they generalize from a set of human-provided examples. Imagine starting the learning algorithm off with a big set of correctly labeled images of different sorts of animals, and then asking it to identify some novel animal photos. Others don&#39;t need that initial &quot;training set&quot;. Given a big set of unlabeled input data, they&#39;ll automatically learn patterns across the ocean of input.</p>
+
+<p>These two properties are interesting in part because they&#39;re both similar to how infants learn to recognize objects. We learn concepts mostly without training (though we do get trained on what labels to use for what concepts -- but how would it be helpful to say &quot;this is a dog&quot; to someone unless they already had some mental concept to attach it to?), and we learn over all sorts of complex features simultaneously.</p>
+
+<h2>The Ideal Cat Stimulus?</h2>
+
+<p>One experiment the Brain team did was running their unsupervised learning algorithm over lots of randomly selected frames of YouTube videos. The system learned lots of high-level concepts, including, <a href="LINK">unsurprisingly</a>, the concept of a cat.</p>
+
+<p>One interesting thing about the Brain algorithm is unlike our brains you can run it equally well forwards or backwards. So you can show it a picture, and ask &quot;what concepts are present in this picture&quot;, or you can take a concept and ask &quot;what image would most strongly activate this concept&quot;.</p>
+
+<p>So they did that for the cat detector. Here&#39;s what it looks like:</p>
+
+<p>image! how do i do images?? I should figure this out so I can do it for the pixelsorter post anyway</p>
+
+<p>You&#39;ll note it&#39;s sorta catish, but definitely not quite like anything in the real world.</p>
+
+<h2>What can we learn about Justice?</h2>
+
+<p>We shouldn&#39;t expect our mental concepts to be neat or coherent. We should expect them to be complex beasts that react to all sorts of random stimuli. </p>
+
+<p>Let me be clear: I don&#39;t think understanding Justice is as simple as figuring out what our brains respond to as &quot;just&quot; and going with that.</p>
+
+<p>But I do think we can gain a clearer understanding of our own intuitions, and what they&#39;re responding to. For example, <a href="LINK%20TO%20STUDY">irrelevant differences in how you ask students moral questions</a> can have a big impact on what they say is immoral or not. That might be surprising if your model for what our brains are doing is understanding some true underlying platonic form. It&#39;s a much less surprising if your model for what our brains are doing is pattern matching against some sort of &quot;morality detector&quot;.</p>
+
+</div>
+
+    </div>
+
+  </body>
+</html>

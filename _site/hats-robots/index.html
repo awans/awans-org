@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Hats, Robots and the Axiom of Choice &middot; awans.org
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+  <!-- Scripts -->
+  <script src="/public/js/salt.js" defer></script>
+  <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+</head>
+
+
+  <body>
+
+    <div class="sidebar">
+  <div class="container">
+    <div class="sidebar-about">
+      <a href="/"><img class="emblem" src="/public/astro.png"></a>
+      <p class="lead">A BLOG OF SALT, SALT AND FORGETTING</p>
+    </div>
+
+    <ul class="sidebar-nav">
+        
+        
+          
+            
+          
+        
+          
+            
+            <li class="sidebar-nav-item" data-postid="about.md">
+              <a href="/about.html">About</a>
+            </li>
+            
+          
+        
+          
+        
+          
+            
+          
+        
+          
+            
+          
+        
+      
+      
+        
+          
+            <li data-postid="/draft-post" class="sidebar-nav-item">
+              <a href="/draft-post/">The Ideal Cat Stimulus</a>
+            </li>
+          
+        
+      
+        
+          
+            <li data-postid="/mental-health" class="sidebar-nav-item">
+              <a href="/mental-health/">Mental Health</a>
+            </li>
+          
+        
+      
+        
+          
+            <li data-postid="/pixelsorting" class="sidebar-nav-item">
+              <a href="/pixelsorting/">Pixel Sorting</a>
+            </li>
+          
+        
+      
+        
+          
+            <li data-postid="/invisible-cities" class="sidebar-nav-item">
+              <a href="/invisible-cities/">Invisible Cities</a>
+            </li>
+          
+        
+      
+        
+          
+            <li data-postid="/kilimanjaro-journal" class="sidebar-nav-item">
+              <a href="/kilimanjaro-journal/">In Which I Climb Kilimanjaro with Joe</a>
+            </li>
+          
+        
+      
+        
+          
+            <li data-postid="/hats-robots" class="sidebar-nav-item active">
+              <a href="/hats-robots/">Hats, Robots and the Axiom of Choice</a>
+            </li>
+          
+        
+      
+      <li>
+        <a class="sidebar-nav-item moretoggle" href="#">More</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+    <div class="content container">
+      <div class="post" data-postid="/hats-robots">
+  <h1 class="post-title">Hats, Robots and the Axiom of Choice</h1>
+  <span class="post-date">20 Feb 2010</span>
+  <p>Three of my favorite puzzles. They increase in difficulty and nerdiness. If you’ve had some discrete math, give the last one a shot before you look at the answer; there’s a hint for the hard version in the title of this post, but don&#39;t get too excited—it&#39;s pretty hard.</p>
+
+<h1>The easy version</h1>
+
+<p>Ten robots are given hats; each hat is either red or blue. The robots are standing in a line facing forward, so each robot can see the robots ahead of itself in line but not those behind it.</p>
+
+<p>Richard Hamming is going to start with the robot at the back of the line — the robot who can see the hats on the nine robots in front of it — and move up the line, asking each robot what it thinks its hat color is. Robots who answer incorrectly will be sent to the mines on Europa (a truly unpleasant fate for robots). Robots who answer correctly will be spared.</p>
+
+<p>These robots have been programmed to be able to say “red” or “blue” when asked about their hat color. There’s no other way that they can communicate once they have hats, but they can collaborate beforehand to come up with a strategy. Here’s the puzzle: What strategy should the robots use to save as many as possible from nearly certain doom on Europa?</p>
+
+<h2>Here’s the answer:</h2>
+
+<p>The first robot looks at the number of red hats it sees in front of itself. If it sees an even number of red hats, it says “red”. If it sees an odd number of red hats, it says “blue”. Aside: it’s an arbitrary convention — let’s just say robots like even numbers, so “red” means “even number of reds”.</p>
+
+<p>So this robot has a 50/50 chance of surviving, but after its sacrifice every other robot can figure out its own hat color. For example, suppose the second robot sees an even number of red hats and the first robot said “red,” indicating that it too saw an even number of red hats. Then that means that the second robot must have a blue hat. If it had a red hat, then the first robot would’ve seen an odd number of red hats and would’ve said “blue”.</p>
+
+<p>Assuming the second robot didn’t screw it up, the third robot can figure out its hat color as well using the same system. Continuing the example from before, suppose the third robot sees an even number of red hats. Then it, too, must have a blue hat. If it had a red hat, then the first robot would have seen an odd number and said “blue”.</p>
+
+<p>Or if it sees an odd number of red hats, it knows it must have a red hat by similar logic.</p>
+
+<p>And so at least nine of the robots can be saved from Hamming.</p>
+
+<h1>The trickier version</h1>
+
+<p>What if instead of just getting red or blue hats, the robots got red, blue or green hats? In this instance, robots can reply to questions about their hat color with “red,” “blue,” or “green”, but all of the other rules are the same.</p>
+
+<p>Can we get the same all-but-one result as before?</p>
+
+<p>Yeah they can, and it’s not even too tricky. Here’s the trick: think of each color as 1, 2 or 3. Say red is one, blue is two, green is three. Now all you have to do is do modular arithmetic.</p>
+
+<p>Whoops. OK, it’s pretty simple. We’re going to do addition with only three numbers. When you get to the top, you just wrap around. So 1+1=2, 2+1=3, 3+1=1. 2+2=1. 2+3=2. Awesome!</p>
+
+<p>So here the first robot adds (mod 3) the numbers in front of it. If it sees a red hat, followed by a blue hat, followed by a bunch of green hats, that’s:</p>
+
+<p>1+2+(3*7)=3</p>
+
+<p>So it says “green.”</p>
+
+<p>So the second robot sees 2+(3*7)=2. Knowing that the first robot calculated a value of 3 for all of the hats in front of it, the second robot can figure out the value of its own hat — one. So it knows it has a red hat.</p>
+
+<p>The third robot then sees (3*7)=3 in front, and knowing that the first robot saw a 3 and the second robot had a 1, the difference must be the value of its hat: two.</p>
+
+<p>So now the first robot only has a 1/3 chance of surviving Richard Hamming, but the rest of the robots are safe. In fact, no matter how many hat colors Hamming uses, all but one of the robots can be saved. Instead of mod 3 math, the robots just have to do mod n math where n is the number of different hat colors.</p>
+
+<p>But not everyone is as nice as Richard Hamming</p>
+
+<h1>The really hard version</h1>
+
+<p>This is going to get nerdy. Hold on to your hats (ha! ok, sorry. ow.).</p>
+
+<p>Ernst Zermello has not ten, but an infinite number of robots in a line with red or blue hats. Additionally, the robots are now spaced so far apart that they can’t hear anyone behind them. They can, however, still see all of the robots in front of them.</p>
+
+<p>Here the challenge is to come up with a strategy for the robots to follow that guarantees only finitely many robots are sent to Europa.</p>
+
+<p>Somewhat surprisingly, it can be done, but you need The Axiom of Choice.</p>
+
+<p>Observe first that the line of robots can be represented as an infinite binary string. That is, something like 101001011101111… that goes on forever where a 1 represents a robot with a red hat and a 0 represents a robot with a blue hat.</p>
+
+<p>Consider, then, the set of all infinite binary strings. We can define the following equivalence relation: given two strings a and b, we’ll say a = b if and only if there is some finite point after which a and b are identical. So the strings can look different for as long as you like, but there is some finite point beyond which they’re identical.</p>
+
+<p>An equivalence relation has to be reflexive (a = a), symmetric (a = b =&gt; b = a) and transitive (a = b and b = c =&gt; a = c). For example, we can define an equivalence relation on the natural numbers like n = m iff n mod 3 = m mod 3. In this example, we have 3=3, 3=6, 3=9, 2=5, 2=8 and so on. In fact we’ve partitioned the natural numbers into three equivalence classes which is just a fancy way of saying there are three distinct groups of the natural numbers under this relation all equal to one another but not equal to any in the other groups.</p>
+
+<p>This relation clearly meets all three criteria; proof left as an exercise to the reader.</p>
+
+<p>So that means we can partition the set of infinite binary strings into equivalence classes as we did before. Now we’ve got an infinite set of infinite sets of infinite binary strings. Pretty crazy. What we want to do is pick one representative from each equivalence class. That is, we’ve got something like {{10..,1010..},{1101..,01001..},…} and we want something like {10..,1101..,…} such that we’re picking one from each subset of the original set.</p>
+
+<p>Here we need to use The Axiom of Choice. We can use the axiom of choice to pick our set of representatives. Having done all of this, we’re ready to go.</p>
+
+<p>So here’s the strategy for each robot: look at all of the hats in front of you. You can see the equivalence class of the infinite string you’re in; so for your hat, answer according to what the representative picked for that reference class would’ve predicted.</p>
+
+<p>Clearly this can kill a lot of robots — the actual binary string is unlikely to be the representative for its equivalence class — but it will also only kill finitely many, because after some finite point it is identical to the representative. Thus, we have our goal. Phew.</p>
+
+</div>
+
+    </div>
+
+  </body>
+</html>
