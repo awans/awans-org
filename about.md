@@ -5,7 +5,7 @@ title: About
 
 Hi, I'm Andrew Wansley.
 
-I live in San Francisco, and I'm taking some time off between projects. Feel free to contact me with opportunities you think I'd find interesting.
+I live in San Francisco. I'm working on helping people with diabetes get coaching at [Welkin Health](https://www.welkinhealth.com/).
 
 Previously, I was a product manager at Google. I've contributed to Google Now, Google Maps, and the OAuth 2.0 protocol. Here's my [resume](https://docs.google.com/document/d/1gM5qCkFJdfvaaG4e-6tDRUSw3rNxv8CUzXGkCplAM6E/preview).
 
