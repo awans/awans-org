@@ -1,0 +1,1558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2014-08-03">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="hotttnesss" title="hotttnesss" type="string">
+        <default></default>
+      </attribute>
+      <attribute id="hotttnesssFloat" title="hotttnesssFloat" type="float"></attribute>
+    </attributes>
+    <nodes>
+      <node id="ARKIQWL12F2B89BBB3" label="Holy Other">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.580444"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.580444"></attvalue>
+        </attvalues>
+        <viz:size value="45.643013"></viz:size>
+        <viz:position x="-69.7964" y="97.392975" z="0.0"></viz:position>
+        <viz:color r="114" g="8" b="147"></viz:color>
+      </node>
+      <node id="ARBQMFY127D395D4EB" label="oOoOO">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.543467"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.543467"></attvalue>
+        </attvalues>
+        <viz:size value="39.363953"></viz:size>
+        <viz:position x="-299.9288" y="137.30934" z="0.0"></viz:position>
+        <viz:color r="98" g="9" b="162"></viz:color>
+      </node>
+      <node id="ARZEYDZ12F1299B2CB" label="Modern Witch">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.489718"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.489718"></attvalue>
+        </attvalues>
+        <viz:size value="30.236843"></viz:size>
+        <viz:position x="-345.40338" y="562.04016" z="0.0"></viz:position>
+        <viz:color r="75" g="11" b="184"></viz:color>
+      </node>
+      <node id="ARWLCFO12AA61C8F4B" label="Balam Acab">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.568158"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.568158"></attvalue>
+        </attvalues>
+        <viz:size value="43.55673"></viz:size>
+        <viz:position x="140.48042" y="-289.79208" z="0.0"></viz:position>
+        <viz:color r="109" g="9" b="152"></viz:color>
+      </node>
+      <node id="ARPAVJF123E29C2866" label="White Ring">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.535889"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.535889"></attvalue>
+        </attvalues>
+        <viz:size value="38.07714"></viz:size>
+        <viz:position x="-318.98566" y="404.27292" z="0.0"></viz:position>
+        <viz:color r="95" g="10" b="165"></viz:color>
+      </node>
+      <node id="ARSQTZE1313DF14B36" label="Ritualz">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.526504"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.526504"></attvalue>
+        </attvalues>
+        <viz:size value="36.483467"></viz:size>
+        <viz:position x="-227.45169" y="572.42615" z="0.0"></viz:position>
+        <viz:color r="91" g="10" b="169"></viz:color>
+      </node>
+      <node id="ARJUURB12AF7D91356" label="Grimes">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.791964"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.791964"></attvalue>
+        </attvalues>
+        <viz:size value="81.5612"></viz:size>
+        <viz:position x="-861.8567" y="-462.78085" z="0.0"></viz:position>
+        <viz:color r="207" g="2" b="61"></viz:color>
+      </node>
+      <node id="ARETMPN12C7E971A82" label="Laurel Halo">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.566725"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.566725"></attvalue>
+        </attvalues>
+        <viz:size value="43.313396"></viz:size>
+        <viz:position x="-150.0463" y="-358.6631" z="0.0"></viz:position>
+        <viz:color r="108" g="9" b="153"></viz:color>
+      </node>
+      <node id="ARCKIFV12BAB079B0A" label="Mater Suspiria Vision">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.485687"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.485687"></attvalue>
+        </attvalues>
+        <viz:size value="29.552338"></viz:size>
+        <viz:position x="-388.20422" y="605.2762" z="0.0"></viz:position>
+        <viz:color r="73" g="11" b="186"></viz:color>
+      </node>
+      <node id="ARTCAHD12F6F3EFA19" label="Sleep ∞ Over">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.496728"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.496728"></attvalue>
+        </attvalues>
+        <viz:size value="31.427212"></viz:size>
+        <viz:position x="-465.4101" y="-168.14275" z="0.0"></viz:position>
+        <viz:color r="78" g="11" b="181"></viz:color>
+      </node>
+      <node id="ARMJLMI12BAB079B0C" label="GR†LLGR†LL">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.320909"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.320909"></attvalue>
+        </attvalues>
+        <viz:size value="1.5714068"></viz:size>
+        <viz:position x="-249.42111" y="698.2738" z="0.0"></viz:position>
+        <viz:color r="1" g="15" b="253"></viz:color>
+      </node>
+      <node id="ARWEGZS1293C13122B" label="How to Dress Well">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.706266"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.706266"></attvalue>
+        </attvalues>
+        <viz:size value="67.00883"></viz:size>
+        <viz:position x="-602.0945" y="-982.6678" z="0.0"></viz:position>
+        <viz:color r="170" g="5" b="96"></viz:color>
+      </node>
+      <node id="ARVTMKE12F54FAD7ED" label="Clams Casino">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.556815"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.556815"></attvalue>
+        </attvalues>
+        <viz:size value="41.630585"></viz:size>
+        <viz:position x="1545.8198" y="-12.862786" z="0.0"></viz:position>
+        <viz:color r="104" g="9" b="157"></viz:color>
+      </node>
+      <node id="ARIDZDZ133B3F137DD" label="Fatima Al Qadiri">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.559304"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.559304"></attvalue>
+        </attvalues>
+        <viz:size value="42.053234"></viz:size>
+        <viz:position x="5.732438" y="397.5493" z="0.0"></viz:position>
+        <viz:color r="105" g="9" b="156"></viz:color>
+      </node>
+      <node id="ARFLHSK1278B7CC893" label="Babe Rainbow">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.544631"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.544631"></attvalue>
+        </attvalues>
+        <viz:size value="39.561615"></viz:size>
+        <viz:position x="419.9368" y="268.7529" z="0.0"></viz:position>
+        <viz:color r="99" g="9" b="162"></viz:color>
+      </node>
+      <node id="ARNNTGE122BCFCA4A5" label="Vortex Rikers">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.460723"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.460723"></attvalue>
+        </attvalues>
+        <viz:size value="25.313208"></viz:size>
+        <viz:position x="-461.6637" y="869.6191" z="0.0"></viz:position>
+        <viz:color r="62" g="12" b="196"></viz:color>
+      </node>
+      <node id="ARGM4IG1187FB5BC8F" label="Salem">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.584618"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.584618"></attvalue>
+        </attvalues>
+        <viz:size value="46.351795"></viz:size>
+        <viz:position x="-89.41543" y="190.99138" z="0.0"></viz:position>
+        <viz:color r="116" g="8" b="145"></viz:color>
+      </node>
+      <node id="AR67FI511C8A422F29" label="Zola Jesus">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.59372"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.59372"></attvalue>
+        </attvalues>
+        <viz:size value="47.897415"></viz:size>
+        <viz:position x="-566.1975" y="-76.372116" z="0.0"></viz:position>
+        <viz:color r="120" g="8" b="142"></viz:color>
+      </node>
+      <node id="ARRKMUM13587781BDE" label="LAKE R▲DIO">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.479283"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.479283"></attvalue>
+        </attvalues>
+        <viz:size value="28.46488"></viz:size>
+        <viz:position x="-107.12023" y="571.5456" z="0.0"></viz:position>
+        <viz:color r="70" g="11" b="188"></viz:color>
+      </node>
+      <node id="ARYAMZS12BAB079D97" label="Tearist">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.477964"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.477964"></attvalue>
+        </attvalues>
+        <viz:size value="28.2409"></viz:size>
+        <viz:position x="-201.07085" y="383.15216" z="0.0"></viz:position>
+        <viz:color r="70" g="11" b="189"></viz:color>
+      </node>
+      <node id="ARWDGGQ129F1DDF9CE" label="Visions of Trees">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.467479"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.467479"></attvalue>
+        </attvalues>
+        <viz:size value="26.46044"></viz:size>
+        <viz:position x="-807.1427" y="99.03997" z="0.0"></viz:position>
+        <viz:color r="65" g="11" b="193"></viz:color>
+      </node>
+      <node id="ARTJKAW12D5CD720E2" label="Fostercare">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.469048"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.469048"></attvalue>
+        </attvalues>
+        <viz:size value="26.726873"></viz:size>
+        <viz:position x="-218.27525" y="825.8579" z="0.0"></viz:position>
+        <viz:color r="66" g="11" b="193"></viz:color>
+      </node>
+      <node id="ARAVTMW12E597EEBFA" label="∆aimon">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.515967"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.515967"></attvalue>
+        </attvalues>
+        <viz:size value="34.694183"></viz:size>
+        <viz:position x="-599.34393" y="862.0165" z="0.0"></viz:position>
+        <viz:color r="86" g="10" b="173"></viz:color>
+      </node>
+      <node id="ARMMJUR12F793546EE" label="High Park">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.409777"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.409777"></attvalue>
+        </attvalues>
+        <viz:size value="16.66207"></viz:size>
+        <viz:position x="-367.5" y="891.6746" z="0.0"></viz:position>
+        <viz:color r="40" g="13" b="217"></viz:color>
+      </node>
+      <node id="ARFTKFN129F1DDF9ED" label="The Present Moment">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.468826"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.468826"></attvalue>
+        </attvalues>
+        <viz:size value="26.689175"></viz:size>
+        <viz:position x="-741.19073" y="1143.7747" z="0.0"></viz:position>
+        <viz:color r="66" g="11" b="193"></viz:color>
+      </node>
+      <node id="ARMBCLZ12A8210093A" label="Dream Boat">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.455028"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.455028"></attvalue>
+        </attvalues>
+        <viz:size value="24.346138"></viz:size>
+        <viz:position x="183.73524" y="727.14557" z="0.0"></viz:position>
+        <viz:color r="60" g="12" b="198"></viz:color>
+      </node>
+      <node id="ARIUIXT12F79354536" label="Mellow Grave">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.413933"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.413933"></attvalue>
+        </attvalues>
+        <viz:size value="17.367804"></viz:size>
+        <viz:position x="-565.43274" y="1238.6735" z="0.0"></viz:position>
+        <viz:color r="42" g="13" b="215"></viz:color>
+      </node>
+      <node id="ARIPOGA1187FB4C883" label="Burial">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.642944"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.642944"></attvalue>
+        </attvalues>
+        <viz:size value="56.25613"></viz:size>
+        <viz:position x="738.90155" y="-488.75894" z="0.0"></viz:position>
+        <viz:color r="142" g="7" b="122"></viz:color>
+      </node>
+      <node id="ARUQQLL12086C15939" label="Gold Panda">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.721688"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.721688"></attvalue>
+        </attvalues>
+        <viz:size value="69.62764"></viz:size>
+        <viz:position x="588.2827" y="-838.7539" z="0.0"></viz:position>
+        <viz:color r="176" g="4" b="90"></viz:color>
+      </node>
+      <node id="ARKHAPE129CDD179FD" label="Forest Swords">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.571635"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.571635"></attvalue>
+        </attvalues>
+        <viz:size value="44.14716"></viz:size>
+        <viz:position x="642.0911" y="-98.10158" z="0.0"></viz:position>
+        <viz:color r="111" g="9" b="151"></viz:color>
+      </node>
+      <node id="AROHHPB126FE0252DB" label="Active Child">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.590409"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.590409"></attvalue>
+        </attvalues>
+        <viz:size value="47.335167"></viz:size>
+        <viz:position x="-423.55286" y="-561.32495" z="0.0"></viz:position>
+        <viz:color r="119" g="8" b="143"></viz:color>
+      </node>
+      <node id="AR2ONTH1187FB4D66F" label="Creep">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.547836"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.547836"></attvalue>
+        </attvalues>
+        <viz:size value="40.105858"></viz:size>
+        <viz:position x="141.41527" y="86.69724" z="0.0"></viz:position>
+        <viz:color r="100" g="9" b="160"></viz:color>
+      </node>
+      <node id="ARDGKKR122BCFCD396" label="James Blake">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.735778"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.735778"></attvalue>
+        </attvalues>
+        <viz:size value="72.020256"></viz:size>
+        <viz:position x="713.23676" y="-689.86896" z="0.0"></viz:position>
+        <viz:color r="182" g="4" b="84"></viz:color>
+      </node>
+      <node id="ARANWST13100D71EEC" label="Sun Glitters">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.570688"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.570688"></attvalue>
+        </attvalues>
+        <viz:size value="43.98635"></viz:size>
+        <viz:position x="431.86362" y="-672.2156" z="0.0"></viz:position>
+        <viz:color r="110" g="9" b="151"></viz:color>
+      </node>
+      <node id="ARMWYUG12F12995B0A" label="Party Trash">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.429487"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.429487"></attvalue>
+        </attvalues>
+        <viz:size value="20.009024"></viz:size>
+        <viz:position x="0.73555845" y="729.05634" z="0.0"></viz:position>
+        <viz:color r="48" g="12" b="209"></viz:color>
+      </node>
+      <node id="ARIUOVY1304CD60648" label="WIK▲N">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.317544"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.317544"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="103.7496" y="984.84155" z="0.0"></viz:position>
+        <viz:color r="0" g="16" b="255"></viz:color>
+      </node>
+      <node id="ARZVIMN12F793545BF" label="Vagina Vangi">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.452961"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.452961"></attvalue>
+        </attvalues>
+        <viz:size value="23.995142"></viz:size>
+        <viz:position x="-329.6073" y="1082.0919" z="0.0"></viz:position>
+        <viz:color r="59" g="12" b="199"></viz:color>
+      </node>
+      <node id="ARCNPXG12B11406D7F" label="Twin Shadow">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.601802"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.601802"></attvalue>
+        </attvalues>
+        <viz:size value="49.269814"></viz:size>
+        <viz:position x="-1085.3716" y="-952.74817" z="0.0"></viz:position>
+        <viz:color r="124" g="8" b="138"></viz:color>
+      </node>
+      <node id="ARCDRLK123E29C1E37" label="Memory Tapes">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.553164"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.553164"></attvalue>
+        </attvalues>
+        <viz:size value="41.010605"></viz:size>
+        <viz:position x="-963.76556" y="-1036.1707" z="0.0"></viz:position>
+        <viz:color r="103" g="9" b="158"></viz:color>
+      </node>
+      <node id="ARIIMDK12F793546CE" label="Purity Ring">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.726599"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.726599"></attvalue>
+        </attvalues>
+        <viz:size value="70.46158"></viz:size>
+        <viz:position x="-1420.4125" y="-665.6718" z="0.0"></viz:position>
+        <viz:color r="178" g="4" b="88"></viz:color>
+      </node>
+      <node id="ARQCVSR12BEF24FB20" label="Austra">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.598265"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.598265"></attvalue>
+        </attvalues>
+        <viz:size value="48.669197"></viz:size>
+        <viz:position x="-1539.6931" y="-892.3155" z="0.0"></viz:position>
+        <viz:color r="122" g="8" b="140"></viz:color>
+      </node>
+      <node id="ARXDDGC123E29C1286" label="Glasser">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.589671"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.589671"></attvalue>
+        </attvalues>
+        <viz:size value="47.209854"></viz:size>
+        <viz:position x="-1601.413" y="-602.25226" z="0.0"></viz:position>
+        <viz:color r="119" g="8" b="143"></viz:color>
+      </node>
+      <node id="ARQLVPG1257509E8EA" label="Tamaryn">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.563113"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.563113"></attvalue>
+        </attvalues>
+        <viz:size value="42.700035"></viz:size>
+        <viz:position x="-1503.0427" y="-395.5555" z="0.0"></viz:position>
+        <viz:color r="107" g="9" b="154"></viz:color>
+      </node>
+      <node id="ARNNOXC12B7E67A9D9" label="Braids">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.544546"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.544546"></attvalue>
+        </attvalues>
+        <viz:size value="39.54718"></viz:size>
+        <viz:position x="-1385.9304" y="-946.8683" z="0.0"></viz:position>
+        <viz:color r="99" g="9" b="162"></viz:color>
+      </node>
+      <node id="ARC3KQN1187FB54018" label="School of Seven Bells">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.571359"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.571359"></attvalue>
+        </attvalues>
+        <viz:size value="44.10029"></viz:size>
+        <viz:position x="-1576.2627" y="-216.85016" z="0.0"></viz:position>
+        <viz:color r="111" g="9" b="151"></viz:color>
+      </node>
+      <node id="ARIANAQ127D395D74A" label="iamamiwhoami">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.572427"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.572427"></attvalue>
+        </attvalues>
+        <viz:size value="44.281643"></viz:size>
+        <viz:position x="-1637.168" y="-749.3229" z="0.0"></viz:position>
+        <viz:color r="111" g="9" b="150"></viz:color>
+      </node>
+      <node id="ARMWDYO11F50C49B36" label="Charli XCX">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.900549"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.900549"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-1672.6111" y="-428.63504" z="0.0"></viz:position>
+        <viz:color r="255" g="0" b="17"></viz:color>
+      </node>
+      <node id="ARHKETW1325F0BC6BD" label="Ayshay">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.414053"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.414053"></attvalue>
+        </attvalues>
+        <viz:size value="17.388178"></viz:size>
+        <viz:position x="287.83835" y="-12.155079" z="0.0"></viz:position>
+        <viz:color r="42" g="13" b="215"></viz:color>
+      </node>
+      <node id="ARBPJMT12E778A79D5" label="Maria Minerva">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.508989"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.508989"></attvalue>
+        </attvalues>
+        <viz:size value="33.509247"></viz:size>
+        <viz:position x="273.08228" y="-958.6998" z="0.0"></viz:position>
+        <viz:color r="83" g="10" b="176"></viz:color>
+      </node>
+      <node id="AREUWSB1269FB35304" label="Julia Holter">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.577302"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.577302"></attvalue>
+        </attvalues>
+        <viz:size value="45.109467"></viz:size>
+        <viz:position x="-77.764565" y="-1065.959" z="0.0"></viz:position>
+        <viz:color r="113" g="8" b="148"></viz:color>
+      </node>
+      <node id="ARHWSUQ123E29C2441" label="Oneohtrix Point Never">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.582645"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.582645"></attvalue>
+        </attvalues>
+        <viz:size value="46.016766"></viz:size>
+        <viz:position x="165.21678" y="-796.82196" z="0.0"></viz:position>
+        <viz:color r="115" g="8" b="146"></viz:color>
+      </node>
+      <node id="ARWQOZA1241B9C50EA" label="Teengirl Fantasy">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.540945"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.540945"></attvalue>
+        </attvalues>
+        <viz:size value="38.93569"></viz:size>
+        <viz:position x="-16.746765" y="-850.2399" z="0.0"></viz:position>
+        <viz:color r="97" g="9" b="163"></viz:color>
+      </node>
+      <node id="ARHOBXF124BAE72FEC" label="Autre Ne Veut">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.58908"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.58908"></attvalue>
+        </attvalues>
+        <viz:size value="47.10949"></viz:size>
+        <viz:position x="-301.93228" y="-948.60077" z="0.0"></viz:position>
+        <viz:color r="118" g="8" b="144"></viz:color>
+      </node>
+      <node id="ARU4JC61187B99CDC8" label="Gang Gang Dance">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.555141"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.555141"></attvalue>
+        </attvalues>
+        <viz:size value="41.346313"></viz:size>
+        <viz:position x="123.36105" y="-1051.2643" z="0.0"></viz:position>
+        <viz:color r="103" g="9" b="158"></viz:color>
+      </node>
+      <node id="ARGELYH131DD4BD786" label="Powwoww">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.4576"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.4576"></attvalue>
+        </attvalues>
+        <viz:size value="24.78289"></viz:size>
+        <viz:position x="-661.72644" y="643.9917" z="0.0"></viz:position>
+        <viz:color r="61" g="12" b="197"></viz:color>
+      </node>
+      <node id="ARAFGZH12F310EFC89" label="I††">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.400195"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.400195"></attvalue>
+        </attvalues>
+        <viz:size value="15.034955"></viz:size>
+        <viz:position x="-895.1401" y="1055.0717" z="0.0"></viz:position>
+        <viz:color r="36" g="13" b="221"></viz:color>
+      </node>
+      <node id="ARLREPU12086C16B30" label="Nite Jewel">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.547601"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.547601"></attvalue>
+        </attvalues>
+        <viz:size value="40.065945"></viz:size>
+        <viz:position x="-798.68933" y="-690.7671" z="0.0"></viz:position>
+        <viz:color r="100" g="9" b="161"></viz:color>
+      </node>
+      <node id="ARBPIOA12EE374B75B" label="Ford &amp; Lopatin">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.499496"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.499496"></attvalue>
+        </attvalues>
+        <viz:size value="31.897247"></viz:size>
+        <viz:position x="-640.51874" y="-705.7231" z="0.0"></viz:position>
+        <viz:color r="79" g="11" b="180"></viz:color>
+      </node>
+      <node id="AROPEWQ12A57A070C9" label="Sleep Over">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.485979"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.485979"></attvalue>
+        </attvalues>
+        <viz:size value="29.601921"></viz:size>
+        <viz:position x="-1151.1378" y="86.90003" z="0.0"></viz:position>
+        <viz:color r="73" g="11" b="186"></viz:color>
+      </node>
+      <node id="ARADSFD128ABE0FE1F" label="D'EON">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.494941"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.494941"></attvalue>
+        </attvalues>
+        <viz:size value="31.12376"></viz:size>
+        <viz:position x="-1124.901" y="-128.02382" z="0.0"></viz:position>
+        <viz:color r="77" g="11" b="182"></viz:color>
+      </node>
+      <node id="ARCWYNF12F310EFD3D" label="Story of Isaac">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.432995"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.432995"></attvalue>
+        </attvalues>
+        <viz:size value="20.604717"></viz:size>
+        <viz:position x="-193.74364" y="1489.2836" z="0.0"></viz:position>
+        <viz:color r="50" g="12" b="207"></viz:color>
+      </node>
+      <node id="ARGPAJU12406A8996B" label="Toro Y Moi">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.613586"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.613586"></attvalue>
+        </attvalues>
+        <viz:size value="51.27085"></viz:size>
+        <viz:position x="-849.6771" y="-1581.531" z="0.0"></viz:position>
+        <viz:color r="129" g="7" b="134"></viz:color>
+      </node>
+      <node id="ARQIUFF1281B8A3983" label="GAYNGS">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.551774"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.551774"></attvalue>
+        </attvalues>
+        <viz:size value="40.77457"></viz:size>
+        <viz:position x="-1176.3446" y="-1468.046" z="0.0"></viz:position>
+        <viz:color r="102" g="9" b="159"></viz:color>
+      </node>
+      <node id="ARDMMWY122E6448002" label="Neon Indian">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.70751"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.70751"></attvalue>
+        </attvalues>
+        <viz:size value="67.22008"></viz:size>
+        <viz:position x="-649.2462" y="-1588.896" z="0.0"></viz:position>
+        <viz:color r="170" g="5" b="95"></viz:color>
+      </node>
+      <node id="ARWOHDG122E6447E8D" label="Washed Out">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.760129"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.760129"></attvalue>
+        </attvalues>
+        <viz:size value="76.1553"></viz:size>
+        <viz:position x="-396.84113" y="-1642.9872" z="0.0"></viz:position>
+        <viz:color r="193" g="3" b="74"></viz:color>
+      </node>
+      <node id="AROPLMX12592CDA2DA" label="Small Black">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.576912"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.576912"></attvalue>
+        </attvalues>
+        <viz:size value="45.043243"></viz:size>
+        <viz:position x="-541.03784" y="-1765.3185" z="0.0"></viz:position>
+        <viz:color r="113" g="8" b="149"></viz:color>
+      </node>
+      <node id="AR8D41U1187B998532" label="Panda Bear">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.576251"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.576251"></attvalue>
+        </attvalues>
+        <viz:size value="44.930996"></viz:size>
+        <viz:position x="-1027.1658" y="-1540.4283" z="0.0"></viz:position>
+        <viz:color r="113" g="8" b="149"></viz:color>
+      </node>
+      <node id="ARTXAKA129601F7E67" label="Wu Lyf">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.559771"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.559771"></attvalue>
+        </attvalues>
+        <viz:size value="42.132538"></viz:size>
+        <viz:position x="-752.2442" y="-1769.654" z="0.0"></viz:position>
+        <viz:color r="105" g="9" b="156"></viz:color>
+      </node>
+      <node id="ARWCIEL1187FB42EF5" label="Beach House">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.721033"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.721033"></attvalue>
+        </attvalues>
+        <viz:size value="69.51641"></viz:size>
+        <viz:position x="-991.064" y="-1703.4789" z="0.0"></viz:position>
+        <viz:color r="176" g="4" b="90"></viz:color>
+      </node>
+      <node id="ARPFNWD1274363C337" label="Shlohmo">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.605912"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.605912"></attvalue>
+        </attvalues>
+        <viz:size value="49.967735"></viz:size>
+        <viz:position x="2243.856" y="290.73773" z="0.0"></viz:position>
+        <viz:color r="126" g="8" b="137"></viz:color>
+      </node>
+      <node id="AR3OFYJ1187FB41167" label="Flying Lotus">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.618794"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.618794"></attvalue>
+        </attvalues>
+        <viz:size value="52.155228"></viz:size>
+        <viz:position x="2363.5867" y="-76.281296" z="0.0"></viz:position>
+        <viz:color r="131" g="7" b="132"></viz:color>
+      </node>
+      <node id="ARHYOMK1241B9CC92D" label="Shabazz Palaces">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.677658"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.677658"></attvalue>
+        </attvalues>
+        <viz:size value="62.150917"></viz:size>
+        <viz:position x="2274.3157" y="-268.80356" z="0.0"></viz:position>
+        <viz:color r="157" g="6" b="107"></viz:color>
+      </node>
+      <node id="ARPPHFI123526A07B0" label="Teebs">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.572534"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.572534"></attvalue>
+        </attvalues>
+        <viz:size value="44.299824"></viz:size>
+        <viz:position x="2130.3442" y="436.50375" z="0.0"></viz:position>
+        <viz:color r="111" g="9" b="150"></viz:color>
+      </node>
+      <node id="ARUKIQX1271F5762F7" label="TOKiMONSTA">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.598915"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.598915"></attvalue>
+        </attvalues>
+        <viz:size value="48.779568"></viz:size>
+        <viz:position x="1925.4199" y="-360.58383" z="0.0"></viz:position>
+        <viz:color r="123" g="8" b="140"></viz:color>
+      </node>
+      <node id="ARNLOGU131F1B9AEB7" label="Xxyyxx">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.584752"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.584752"></attvalue>
+        </attvalues>
+        <viz:size value="46.374557"></viz:size>
+        <viz:position x="2173.1865" y="-412.6439" z="0.0"></viz:position>
+        <viz:color r="116" g="8" b="145"></viz:color>
+      </node>
+      <node id="ARFKUMX12592CD923E" label="Gonjasufi">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.540637"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.540637"></attvalue>
+        </attvalues>
+        <viz:size value="38.883396"></viz:size>
+        <viz:position x="2058.7056" y="-535.8203" z="0.0"></viz:position>
+        <viz:color r="97" g="9" b="163"></viz:color>
+      </node>
+      <node id="ARPBMBK130708ED17B" label="Spaceghostpurrp">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.547081"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.547081"></attvalue>
+        </attvalues>
+        <viz:size value="39.977646"></viz:size>
+        <viz:position x="2213.6038" y="-63.86447" z="0.0"></viz:position>
+        <viz:color r="100" g="9" b="161"></viz:color>
+      </node>
+      <node id="ARBIVYB136F6F0DAA7" label="Friendzone">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.513713"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.513713"></attvalue>
+        </attvalues>
+        <viz:size value="34.31143"></viz:size>
+        <viz:position x="2036.8169" y="-186.70842" z="0.0"></viz:position>
+        <viz:color r="85" g="10" b="174"></viz:color>
+      </node>
+      <node id="ARDEDZX126FE0252E3" label="Baths">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.604543"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.604543"></attvalue>
+        </attvalues>
+        <viz:size value="49.735256"></viz:size>
+        <viz:position x="2045.9396" y="37.90829" z="0.0"></viz:position>
+        <viz:color r="125" g="8" b="137"></viz:color>
+      </node>
+      <node id="ARFH4LC11C8A415656" label="The Gaslamp Killer">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.575203"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.575203"></attvalue>
+        </attvalues>
+        <viz:size value="44.75304"></viz:size>
+        <viz:position x="2316.9192" y="130.442" z="0.0"></viz:position>
+        <viz:color r="112" g="8" b="149"></viz:color>
+      </node>
+      <node id="ARTKJDE130708EDD54" label="Death Grips">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.583966"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.583966"></attvalue>
+        </attvalues>
+        <viz:size value="46.241085"></viz:size>
+        <viz:position x="1854.3795" y="-563.773" z="0.0"></viz:position>
+        <viz:color r="116" g="8" b="146"></viz:color>
+      </node>
+      <node id="ARKORQD12F54FAD821" label="Groundislava">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.575247"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.575247"></attvalue>
+        </attvalues>
+        <viz:size value="44.76051"></viz:size>
+        <viz:position x="2034.3314" y="239.31104" z="0.0"></viz:position>
+        <viz:color r="112" g="8" b="149"></viz:color>
+      </node>
+      <node id="ARGEKB01187FB50750" label="Hudson Mohawke">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.701187"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.701187"></attvalue>
+        </attvalues>
+        <viz:size value="66.14637"></viz:size>
+        <viz:position x="1979.3544" y="553.10187" z="0.0"></viz:position>
+        <viz:color r="167" g="5" b="98"></viz:color>
+      </node>
+      <node id="ARRXDXI12454A47476" label="Nosaj Thing">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.600095"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.600095"></attvalue>
+        </attvalues>
+        <viz:size value="48.979946"></viz:size>
+        <viz:position x="1875.7871" y="412.29953" z="0.0"></viz:position>
+        <viz:color r="123" g="8" b="139"></viz:color>
+      </node>
+      <node id="ARVTUJP12802FDF685" label="Hollagramz">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.329579"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.329579"></attvalue>
+        </attvalues>
+        <viz:size value="3.043659"></viz:size>
+        <viz:position x="387.66547" y="1068.6476" z="0.0"></viz:position>
+        <viz:color r="5" g="15" b="250"></viz:color>
+      </node>
+      <node id="ARTMNIF12592CDA04A" label="Hype Williams">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.519507"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.519507"></attvalue>
+        </attvalues>
+        <viz:size value="35.295307"></viz:size>
+        <viz:position x="532.3879" y="619.82355" z="0.0"></viz:position>
+        <viz:color r="88" g="10" b="172"></viz:color>
+      </node>
+      <node id="ARXTNDG12B3B354D64" label="Water Borders">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.437994"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.437994"></attvalue>
+        </attvalues>
+        <viz:size value="21.453598"></viz:size>
+        <viz:position x="1004.4825" y="459.79468" z="0.0"></viz:position>
+        <viz:color r="52" g="12" b="205"></viz:color>
+      </node>
+      <node id="ARKLBCM12802FDDBE0" label="Hideous Men">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.325497"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.325497"></attvalue>
+        </attvalues>
+        <viz:size value="2.3504958"></viz:size>
+        <viz:position x="854.86523" y="833.84924" z="0.0"></viz:position>
+        <viz:color r="3" g="15" b="251"></viz:color>
+      </node>
+      <node id="ARNVECX1276770489E" label="Dam Mantle">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.464396"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.464396"></attvalue>
+        </attvalues>
+        <viz:size value="25.936918"></viz:size>
+        <viz:position x="966.9328" y="673.02594" z="0.0"></viz:position>
+        <viz:color r="64" g="11" b="195"></viz:color>
+      </node>
+      <node id="ARKYVFV12E30EB7E2C" label="Jewels of the Nile">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.364619"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.364619"></attvalue>
+        </attvalues>
+        <viz:size value="8.993795"></viz:size>
+        <viz:position x="-871.6888" y="1544.3281" z="0.0"></viz:position>
+        <viz:color r="20" g="14" b="235"></viz:color>
+      </node>
+      <node id="ARZWUMW1269FB33849" label="Tempelhof">
+        <attvalues>
+          <attvalue for="hotttnesss" value="0.439589"></attvalue>
+          <attvalue for="hotttnesssFloat" value="0.439589"></attvalue>
+        </attvalues>
+        <viz:size value="21.724443"></viz:size>
+        <viz:position x="-664.2624" y="1622.3395" z="0.0"></viz:position>
+        <viz:color r="53" g="12" b="205"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="ARKIQWL12F2B89BBB3" target="ARBQMFY127D395D4EB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARKIQWL12F2B89BBB3" target="ARZEYDZ12F1299B2CB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARKIQWL12F2B89BBB3" target="ARWLCFO12AA61C8F4B">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARKIQWL12F2B89BBB3" target="ARPAVJF123E29C2866">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARKIQWL12F2B89BBB3" target="ARSQTZE1313DF14B36">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARKIQWL12F2B89BBB3" target="ARJUURB12AF7D91356">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARKIQWL12F2B89BBB3" target="ARETMPN12C7E971A82">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARKIQWL12F2B89BBB3" target="ARCKIFV12BAB079B0A">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARKIQWL12F2B89BBB3" target="ARTCAHD12F6F3EFA19">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARKIQWL12F2B89BBB3" target="ARMJLMI12BAB079B0C">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARKIQWL12F2B89BBB3" target="ARWEGZS1293C13122B">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARKIQWL12F2B89BBB3" target="ARVTMKE12F54FAD7ED">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARKIQWL12F2B89BBB3" target="ARIDZDZ133B3F137DD">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARKIQWL12F2B89BBB3" target="ARFLHSK1278B7CC893">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARKIQWL12F2B89BBB3" target="ARNNTGE122BCFCA4A5">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARBQMFY127D395D4EB" target="ARKIQWL12F2B89BBB3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARBQMFY127D395D4EB" target="ARZEYDZ12F1299B2CB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARBQMFY127D395D4EB" target="ARWLCFO12AA61C8F4B">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARBQMFY127D395D4EB" target="ARPAVJF123E29C2866">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARBQMFY127D395D4EB" target="ARSQTZE1313DF14B36">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARBQMFY127D395D4EB" target="ARJUURB12AF7D91356">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARBQMFY127D395D4EB" target="ARETMPN12C7E971A82">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARBQMFY127D395D4EB" target="ARCKIFV12BAB079B0A">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARBQMFY127D395D4EB" target="ARTCAHD12F6F3EFA19">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARBQMFY127D395D4EB" target="ARMJLMI12BAB079B0C">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARBQMFY127D395D4EB" target="ARGM4IG1187FB5BC8F">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARBQMFY127D395D4EB" target="AR67FI511C8A422F29">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARBQMFY127D395D4EB" target="ARRKMUM13587781BDE">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARBQMFY127D395D4EB" target="ARYAMZS12BAB079D97">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARBQMFY127D395D4EB" target="ARWDGGQ129F1DDF9CE">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARZEYDZ12F1299B2CB" target="ARKIQWL12F2B89BBB3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARZEYDZ12F1299B2CB" target="ARBQMFY127D395D4EB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARZEYDZ12F1299B2CB" target="ARPAVJF123E29C2866">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARZEYDZ12F1299B2CB" target="ARSQTZE1313DF14B36">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARZEYDZ12F1299B2CB" target="ARCKIFV12BAB079B0A">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARZEYDZ12F1299B2CB" target="ARMJLMI12BAB079B0C">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARZEYDZ12F1299B2CB" target="ARNNTGE122BCFCA4A5">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARZEYDZ12F1299B2CB" target="ARRKMUM13587781BDE">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARZEYDZ12F1299B2CB" target="ARYAMZS12BAB079D97">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARZEYDZ12F1299B2CB" target="ARTJKAW12D5CD720E2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARZEYDZ12F1299B2CB" target="ARAVTMW12E597EEBFA">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARZEYDZ12F1299B2CB" target="ARMMJUR12F793546EE">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARZEYDZ12F1299B2CB" target="ARFTKFN129F1DDF9ED">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARZEYDZ12F1299B2CB" target="ARMBCLZ12A8210093A">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARZEYDZ12F1299B2CB" target="ARIUIXT12F79354536">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWLCFO12AA61C8F4B" target="ARKIQWL12F2B89BBB3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWLCFO12AA61C8F4B" target="ARBQMFY127D395D4EB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWLCFO12AA61C8F4B" target="ARJUURB12AF7D91356">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWLCFO12AA61C8F4B" target="ARETMPN12C7E971A82">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWLCFO12AA61C8F4B" target="ARTCAHD12F6F3EFA19">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWLCFO12AA61C8F4B" target="ARWEGZS1293C13122B">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWLCFO12AA61C8F4B" target="ARVTMKE12F54FAD7ED">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWLCFO12AA61C8F4B" target="ARGM4IG1187FB5BC8F">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWLCFO12AA61C8F4B" target="ARIPOGA1187FB4C883">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWLCFO12AA61C8F4B" target="ARUQQLL12086C15939">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWLCFO12AA61C8F4B" target="ARKHAPE129CDD179FD">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWLCFO12AA61C8F4B" target="AROHHPB126FE0252DB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWLCFO12AA61C8F4B" target="AR2ONTH1187FB4D66F">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWLCFO12AA61C8F4B" target="ARDGKKR122BCFCD396">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWLCFO12AA61C8F4B" target="ARANWST13100D71EEC">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARPAVJF123E29C2866" target="ARKIQWL12F2B89BBB3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARPAVJF123E29C2866" target="ARBQMFY127D395D4EB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARPAVJF123E29C2866" target="ARZEYDZ12F1299B2CB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARPAVJF123E29C2866" target="ARSQTZE1313DF14B36">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARPAVJF123E29C2866" target="ARCKIFV12BAB079B0A">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARPAVJF123E29C2866" target="ARTCAHD12F6F3EFA19">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARPAVJF123E29C2866" target="ARMJLMI12BAB079B0C">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARPAVJF123E29C2866" target="ARNNTGE122BCFCA4A5">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARPAVJF123E29C2866" target="ARGM4IG1187FB5BC8F">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARPAVJF123E29C2866" target="AR67FI511C8A422F29">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARPAVJF123E29C2866" target="ARRKMUM13587781BDE">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARPAVJF123E29C2866" target="ARYAMZS12BAB079D97">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARPAVJF123E29C2866" target="ARTJKAW12D5CD720E2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARPAVJF123E29C2866" target="ARMMJUR12F793546EE">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARPAVJF123E29C2866" target="AR2ONTH1187FB4D66F">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARSQTZE1313DF14B36" target="ARKIQWL12F2B89BBB3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARSQTZE1313DF14B36" target="ARBQMFY127D395D4EB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARSQTZE1313DF14B36" target="ARZEYDZ12F1299B2CB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARSQTZE1313DF14B36" target="ARPAVJF123E29C2866">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARSQTZE1313DF14B36" target="ARCKIFV12BAB079B0A">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARSQTZE1313DF14B36" target="ARMJLMI12BAB079B0C">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARSQTZE1313DF14B36" target="ARGM4IG1187FB5BC8F">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARSQTZE1313DF14B36" target="ARRKMUM13587781BDE">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARSQTZE1313DF14B36" target="ARYAMZS12BAB079D97">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARSQTZE1313DF14B36" target="ARTJKAW12D5CD720E2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARSQTZE1313DF14B36" target="ARAVTMW12E597EEBFA">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARSQTZE1313DF14B36" target="ARMMJUR12F793546EE">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARSQTZE1313DF14B36" target="ARMWYUG12F12995B0A">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARSQTZE1313DF14B36" target="ARIUOVY1304CD60648">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARSQTZE1313DF14B36" target="ARZVIMN12F793545BF">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARJUURB12AF7D91356" target="ARBQMFY127D395D4EB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARJUURB12AF7D91356" target="ARETMPN12C7E971A82">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARJUURB12AF7D91356" target="ARWEGZS1293C13122B">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARJUURB12AF7D91356" target="AR67FI511C8A422F29">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARJUURB12AF7D91356" target="AROHHPB126FE0252DB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARJUURB12AF7D91356" target="ARCNPXG12B11406D7F">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARJUURB12AF7D91356" target="ARCDRLK123E29C1E37">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARJUURB12AF7D91356" target="ARIIMDK12F793546CE">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARJUURB12AF7D91356" target="ARQCVSR12BEF24FB20">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARJUURB12AF7D91356" target="ARXDDGC123E29C1286">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARJUURB12AF7D91356" target="ARQLVPG1257509E8EA">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARJUURB12AF7D91356" target="ARNNOXC12B7E67A9D9">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARJUURB12AF7D91356" target="ARC3KQN1187FB54018">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARJUURB12AF7D91356" target="ARIANAQ127D395D74A">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARJUURB12AF7D91356" target="ARMWDYO11F50C49B36">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARETMPN12C7E971A82" target="ARKIQWL12F2B89BBB3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARETMPN12C7E971A82" target="ARBQMFY127D395D4EB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARETMPN12C7E971A82" target="ARWLCFO12AA61C8F4B">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARETMPN12C7E971A82" target="ARJUURB12AF7D91356">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARETMPN12C7E971A82" target="ARTCAHD12F6F3EFA19">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARETMPN12C7E971A82" target="ARWEGZS1293C13122B">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARETMPN12C7E971A82" target="ARIDZDZ133B3F137DD">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARETMPN12C7E971A82" target="AR67FI511C8A422F29">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARETMPN12C7E971A82" target="ARHKETW1325F0BC6BD">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARETMPN12C7E971A82" target="ARBPJMT12E778A79D5">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARETMPN12C7E971A82" target="AREUWSB1269FB35304">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARETMPN12C7E971A82" target="ARHWSUQ123E29C2441">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARETMPN12C7E971A82" target="ARWQOZA1241B9C50EA">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARETMPN12C7E971A82" target="ARHOBXF124BAE72FEC">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARETMPN12C7E971A82" target="ARU4JC61187B99CDC8">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARCKIFV12BAB079B0A" target="ARKIQWL12F2B89BBB3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARCKIFV12BAB079B0A" target="ARBQMFY127D395D4EB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARCKIFV12BAB079B0A" target="ARZEYDZ12F1299B2CB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARCKIFV12BAB079B0A" target="ARPAVJF123E29C2866">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARCKIFV12BAB079B0A" target="ARSQTZE1313DF14B36">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARCKIFV12BAB079B0A" target="ARMJLMI12BAB079B0C">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARCKIFV12BAB079B0A" target="ARNNTGE122BCFCA4A5">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARCKIFV12BAB079B0A" target="ARYAMZS12BAB079D97">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARCKIFV12BAB079B0A" target="ARTJKAW12D5CD720E2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARCKIFV12BAB079B0A" target="ARAVTMW12E597EEBFA">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARCKIFV12BAB079B0A" target="ARMMJUR12F793546EE">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARCKIFV12BAB079B0A" target="ARMWYUG12F12995B0A">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARCKIFV12BAB079B0A" target="ARZVIMN12F793545BF">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARCKIFV12BAB079B0A" target="ARGELYH131DD4BD786">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARCKIFV12BAB079B0A" target="ARAFGZH12F310EFC89">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARTCAHD12F6F3EFA19" target="ARKIQWL12F2B89BBB3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARTCAHD12F6F3EFA19" target="ARBQMFY127D395D4EB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARTCAHD12F6F3EFA19" target="ARZEYDZ12F1299B2CB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARTCAHD12F6F3EFA19" target="ARWLCFO12AA61C8F4B">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARTCAHD12F6F3EFA19" target="ARJUURB12AF7D91356">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARTCAHD12F6F3EFA19" target="ARETMPN12C7E971A82">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARTCAHD12F6F3EFA19" target="ARWEGZS1293C13122B">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARTCAHD12F6F3EFA19" target="AR67FI511C8A422F29">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARTCAHD12F6F3EFA19" target="ARYAMZS12BAB079D97">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARTCAHD12F6F3EFA19" target="ARWDGGQ129F1DDF9CE">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARTCAHD12F6F3EFA19" target="AROHHPB126FE0252DB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARTCAHD12F6F3EFA19" target="ARLREPU12086C16B30">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARTCAHD12F6F3EFA19" target="ARBPIOA12EE374B75B">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARTCAHD12F6F3EFA19" target="AROPEWQ12A57A070C9">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARTCAHD12F6F3EFA19" target="ARADSFD128ABE0FE1F">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARMJLMI12BAB079B0C" target="ARBQMFY127D395D4EB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARMJLMI12BAB079B0C" target="ARZEYDZ12F1299B2CB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARMJLMI12BAB079B0C" target="ARPAVJF123E29C2866">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARMJLMI12BAB079B0C" target="ARSQTZE1313DF14B36">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARMJLMI12BAB079B0C" target="ARCKIFV12BAB079B0A">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARMJLMI12BAB079B0C" target="ARNNTGE122BCFCA4A5">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARMJLMI12BAB079B0C" target="ARRKMUM13587781BDE">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARMJLMI12BAB079B0C" target="ARYAMZS12BAB079D97">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARMJLMI12BAB079B0C" target="ARTJKAW12D5CD720E2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARMJLMI12BAB079B0C" target="ARAVTMW12E597EEBFA">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARMJLMI12BAB079B0C" target="ARMMJUR12F793546EE">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARMJLMI12BAB079B0C" target="ARMBCLZ12A8210093A">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARMJLMI12BAB079B0C" target="ARMWYUG12F12995B0A">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARMJLMI12BAB079B0C" target="ARZVIMN12F793545BF">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARMJLMI12BAB079B0C" target="ARCWYNF12F310EFD3D">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWEGZS1293C13122B" target="ARJUURB12AF7D91356">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWEGZS1293C13122B" target="AROHHPB126FE0252DB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWEGZS1293C13122B" target="ARCNPXG12B11406D7F">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWEGZS1293C13122B" target="ARCDRLK123E29C1E37">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWEGZS1293C13122B" target="ARHOBXF124BAE72FEC">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWEGZS1293C13122B" target="ARLREPU12086C16B30">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWEGZS1293C13122B" target="ARBPIOA12EE374B75B">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWEGZS1293C13122B" target="ARGPAJU12406A8996B">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWEGZS1293C13122B" target="ARQIUFF1281B8A3983">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWEGZS1293C13122B" target="ARDMMWY122E6448002">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWEGZS1293C13122B" target="ARWOHDG122E6447E8D">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWEGZS1293C13122B" target="AROPLMX12592CDA2DA">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWEGZS1293C13122B" target="AR8D41U1187B998532">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWEGZS1293C13122B" target="ARTXAKA129601F7E67">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARWEGZS1293C13122B" target="ARWCIEL1187FB42EF5">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARVTMKE12F54FAD7ED" target="ARPFNWD1274363C337">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARVTMKE12F54FAD7ED" target="AR3OFYJ1187FB41167">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARVTMKE12F54FAD7ED" target="ARHYOMK1241B9CC92D">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARVTMKE12F54FAD7ED" target="ARPPHFI123526A07B0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARVTMKE12F54FAD7ED" target="ARUKIQX1271F5762F7">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARVTMKE12F54FAD7ED" target="ARNLOGU131F1B9AEB7">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARVTMKE12F54FAD7ED" target="ARFKUMX12592CD923E">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARVTMKE12F54FAD7ED" target="ARPBMBK130708ED17B">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARVTMKE12F54FAD7ED" target="ARBIVYB136F6F0DAA7">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARVTMKE12F54FAD7ED" target="ARDEDZX126FE0252E3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARVTMKE12F54FAD7ED" target="ARFH4LC11C8A415656">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARVTMKE12F54FAD7ED" target="ARTKJDE130708EDD54">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARVTMKE12F54FAD7ED" target="ARKORQD12F54FAD821">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARVTMKE12F54FAD7ED" target="ARGEKB01187FB50750">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARVTMKE12F54FAD7ED" target="ARRXDXI12454A47476">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARIDZDZ133B3F137DD" target="ARKIQWL12F2B89BBB3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARIDZDZ133B3F137DD" target="ARBQMFY127D395D4EB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARIDZDZ133B3F137DD" target="ARZEYDZ12F1299B2CB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARIDZDZ133B3F137DD" target="ARSQTZE1313DF14B36">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARIDZDZ133B3F137DD" target="ARETMPN12C7E971A82">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARIDZDZ133B3F137DD" target="ARCKIFV12BAB079B0A">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARIDZDZ133B3F137DD" target="ARFLHSK1278B7CC893">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARIDZDZ133B3F137DD" target="ARYAMZS12BAB079D97">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARIDZDZ133B3F137DD" target="ARTJKAW12D5CD720E2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARIDZDZ133B3F137DD" target="ARMWYUG12F12995B0A">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARIDZDZ133B3F137DD" target="ARIUOVY1304CD60648">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARIDZDZ133B3F137DD" target="ARHKETW1325F0BC6BD">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARIDZDZ133B3F137DD" target="ARGELYH131DD4BD786">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARIDZDZ133B3F137DD" target="ARVTUJP12802FDF685">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARIDZDZ133B3F137DD" target="ARTMNIF12592CDA04A">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARFLHSK1278B7CC893" target="ARKIQWL12F2B89BBB3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARFLHSK1278B7CC893" target="ARBQMFY127D395D4EB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARFLHSK1278B7CC893" target="ARWLCFO12AA61C8F4B">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARFLHSK1278B7CC893" target="ARETMPN12C7E971A82">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARFLHSK1278B7CC893" target="ARVTMKE12F54FAD7ED">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARFLHSK1278B7CC893" target="ARIDZDZ133B3F137DD">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARFLHSK1278B7CC893" target="ARYAMZS12BAB079D97">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARFLHSK1278B7CC893" target="ARMBCLZ12A8210093A">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARFLHSK1278B7CC893" target="ARKHAPE129CDD179FD">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARFLHSK1278B7CC893" target="ARMWYUG12F12995B0A">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARFLHSK1278B7CC893" target="ARHKETW1325F0BC6BD">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARFLHSK1278B7CC893" target="ARTMNIF12592CDA04A">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARFLHSK1278B7CC893" target="ARXTNDG12B3B354D64">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARFLHSK1278B7CC893" target="ARKLBCM12802FDDBE0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARFLHSK1278B7CC893" target="ARNVECX1276770489E">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARNNTGE122BCFCA4A5" target="ARZEYDZ12F1299B2CB">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARNNTGE122BCFCA4A5" target="ARPAVJF123E29C2866">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARNNTGE122BCFCA4A5" target="ARSQTZE1313DF14B36">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARNNTGE122BCFCA4A5" target="ARCKIFV12BAB079B0A">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARNNTGE122BCFCA4A5" target="ARYAMZS12BAB079D97">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARNNTGE122BCFCA4A5" target="ARTJKAW12D5CD720E2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARNNTGE122BCFCA4A5" target="ARAVTMW12E597EEBFA">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARNNTGE122BCFCA4A5" target="ARMMJUR12F793546EE">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARNNTGE122BCFCA4A5" target="ARFTKFN129F1DDF9ED">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARNNTGE122BCFCA4A5" target="ARIUIXT12F79354536">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARNNTGE122BCFCA4A5" target="ARMWYUG12F12995B0A">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARNNTGE122BCFCA4A5" target="ARZVIMN12F793545BF">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARNNTGE122BCFCA4A5" target="ARAFGZH12F310EFC89">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARNNTGE122BCFCA4A5" target="ARKYVFV12E30EB7E2C">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARNNTGE122BCFCA4A5" target="ARZWUMW1269FB33849">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
