@@ -6,7 +6,7 @@ title: Oceanside Water Treatment Plant
 
 This weekend I got to go on a tour of the [SF Oceanside Water Treatment Plant](http://sfwater.org/index.aspx?page=95), which handles about 20% of San Francisco's waste water.
 
-That includes everything from your shower, bathroom, and sinks, as well as rain water from storms—that's known in the biz as a "combined" system. A lot of cities nowadays will have two separate sets of pipes, one for rain water and one for everything else. 
+That includes everything from your shower, bathroom, and sinks, as well as rain water from storms—that's known in the biz as a "combined" system. A lot of cities nowadays will have two separate sets of pipes, one for rain water and one for everything else.
 
 The downside: basically if SF has a big storm and the system gets overwhelmed, a combination of sewage and rain water (mostly rain water, but still some sewage) might get dumped into the bay. Consequently, the city has massive storage tanks underneath The Great Highway and a couple of other places to keep that from happening.
 
@@ -14,7 +14,7 @@ The upside is that SF treats its rainwater, which often has all sorts of polluta
 
 
 <a href="/public/img/2014-11-08 11.25.06.jpg" class="gallery">
-    <img src="/public/img/2014-11-08 11.25.06.jpg"/>
+  <img src="/public/img/2014-11-08 11.25.06.jpg"/>
 </a>
 
 This is the first step of the cleaning process; the sewage sits in this massive room and is allowed to settle for a few hours. Solids sink, oils float, and water (ish) sits in the middle. Just though waiting around and letting gravity do its work, they're able to remove 60% of the total waste.
@@ -49,9 +49,3 @@ Lastly, I always love the hecka-analog interfaces that industrial machines have;
 <script>
       $('a.gallery').colorbox({maxWidth:"80%", maxHeight:"80%"});
 </script>
-
-
-
-
-
-

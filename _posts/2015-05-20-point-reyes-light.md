@@ -22,7 +22,7 @@ In order to send light as far as possible in the foggy, windy night, lighthouses
 
 Did you know the word _lens_ comes from the latin for _lentil_ because they share a similar shape? Pretty cute.
 
-Anyway you want a big glass lentil to help focus all of that light into a nice coherent beam that you can shoot out into the horizon. Unfortunately, lighthouses are big and tall, so in order to capture enough light to reach the horizon some 20 miles away, you'd need a pretty huge, unweildy, difficult to manufacture piece of glass.
+Anyway you want a big glass lentil to help focus all of that light into a nice coherent beam that you can shoot out into the horizon. Unfortunately, lighthouses are big and tall, so in order to capture enough light to reach the horizon some 20 miles away, you'd need a pretty huge, unwieldy, difficult to manufacture piece of glass.
 
 The Fresnel lens solves this problem by.. splitting up the lens into much smaller sections with the right level of convexity. Check out this (public domain!) image from [Wikipedia](http://en.wikipedia.org/wiki/File:Fresnel_lighthouse_lens_diagram.png):
 
