@@ -7,8 +7,8 @@ module Jekyll
     end
 
     def render(context)
-      "<a href=\"/public/img/original/#{@text}\" class=\"gallery\">
-        <img src=\"/public/img/medium/#{@text}\"/>
+      "<a href=\"/public/img/original/#{@text.strip}\" class=\"salt-image\">
+        <img src=\"/public/img/medium/#{@text.strip}\" alt=\"photo\"/>
       </a>"
     end
   end

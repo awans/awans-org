@@ -24,6 +24,7 @@
   <link rel="stylesheet" href="/public/css/syntax.css">
   <link rel="stylesheet" href="/public/css/hyde.css">
   <link rel="stylesheet" href="/public/css/colorbox.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fluidbox/1.4.3.1/css/fluidbox.css">
 
   <!-- Icons -->
   <link rel="shortcut icon" href="/public/favicon.ico">
@@ -32,9 +33,15 @@
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
   <!-- Scripts -->
-  <script async src="/public/js/salt.js" defer></script>
-  <script async src="/public/js/jquery.min.js"></script>
-
+  <script src="/public/js/salt.js" defer></script>
+  <script src="/public/js/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fluidbox/1.4.3.1/jquery.fluidbox.min.js"></script>
+  <script>
+    $(function () {
+      console.log('running');
+      $('.salt-image').fluidbox();
+    });
+  </script>
 
 
 </head>
