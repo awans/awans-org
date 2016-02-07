@@ -4,57 +4,60 @@ https://keybase.io/awans
 
 I hereby claim:
 
-  * I am an admin of http://awans.org
+  * I am an admin of https://awans.org
   * I am awans (https://keybase.io/awans) on keybase.
-  * I have a public key with fingerprint 2ADB 30F6 86E7 FBEF 95A1  B603 8DC9 55DE 1A77 3824
+  * I have a public key with fingerprint AC0F CC2A E234 76C1 15B9  6B48 20D5 F05F 6330 8E3A
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
-	"body": {
-		"key": {
-			"fingerprint": "2adb30f686e7fbef95a1b6038dc955de1a773824",
-			"host": "keybase.io",
-			"key_id": "8dc955de1a773824",
-			"uid": "2c984564414cddb86a045d995fd9fb00",
-			"username": "awans"
-		},
-		"service": {
-			"hostname": "awans.org",
-			"protocol": "http:"
-		},
-		"type": "web_service_binding",
-		"version": 1
-	},
-	"ctime": 1398017122,
-	"expire_in": 157680000,
-	"prev": "750fb010ae95cfd8a80c6d819937eb83904a3798fa145aea6cc52b47cccf96f5",
-	"seqno": 3,
-	"tag": "signature"
+    "body": {
+        "key": {
+            "eldest_kid": "0101d6e6000851a57c1eddddca307c78502629183bade407dc055059035347a6fdfc0a",
+            "fingerprint": "ac0fcc2ae23476c115b96b4820d5f05f63308e3a",
+            "host": "keybase.io",
+            "key_id": "20d5f05f63308e3a",
+            "kid": "0101d6e6000851a57c1eddddca307c78502629183bade407dc055059035347a6fdfc0a",
+            "uid": "2c984564414cddb86a045d995fd9fb00",
+            "username": "awans"
+        },
+        "service": {
+            "hostname": "awans.org",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1449969749,
+    "expire_in": 157680000,
+    "prev": "129eeb537fc132fad24c18195e07283d35722bc0f693f703ad7ad3b097af82ad",
+    "seqno": 11,
+    "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v0.1.8
+Version: Keybase OpenPGP v2.0.49
 Comment: https://keybase.io/crypto
 
-yMHlAnicbZFbSBRRGMd3a2tpSxOlsgubDO7WwyozO/f1yRcpulAo3WU9M3Nmd7Bm
-ttnxhogkpWWFUtjtobJNI8sIimRBclvCKC2ilDADEylX064+pFB6Rgp66Lwczv/7
-/f/fd/geJy20OKy73lrX3Mqa6Lf2xD6VWPILlgmVmKBJFZivEiuG85esqAGoh3RF
-NTAf5gWSQOIywzGQlQUo8zQgBAYnOUnkaVqCBGBZkvNSmAcLamHTgWIEEIbZioY0
-9PArElL/w5fMF7wiz1E0Q1EEJUqSwDEAp2iJ52lZ4mUBx00wDHUVHIKIBmVADWNV
-HgxJpYqIpMr5vv+WszU9gFwhXTM0UTuI5KBhhHymy6gImVgZFPx/AvyCokrox8hQ
-CvWwoqmYj0CkaChmIkHyHE6whNfrwWB5SNGhXzEJmmU4HB2zDSxFkSyNo2kJHECe
-FmWJAxwuMhJH8DzJQoEjeZwCJMtzMiAoGkDAiCLtFShWFEWZZ2Qa9Q/Dw6qG+Ug0
-JgigyLASUIFRokOsKh47YLNYHZbFixaYO7M4lqT83eTXhH12X1lf4v6oEmmz1te+
-mU5rqvt+Y1JPrY67jRN5DStPTUbsbLrT/3xmk+12i7NrsPVLS6+7I2JPcW2Ar1JX
-5+QP1lK9GX0r0lxY4eb6HTWNsWgimjQ0mWgNfezsKb5T1bZ1OPPh8gLbmdz+rLOJ
-sT0v33e75N1F/PS5/Y/sTREuZWx0ynPk5/Gc2QtRYSI5uf1XQg1m1KyVOftw3Pba
-5rz2o6O9sWPk+u+iz6uu1rRYe99dvLLO3Xn+tGXpUF7zsY071ztnMl9M5Y6nfmgY
-G75ccDc96uh60rwl92Z0W2jqWfBSlrDXNVA3Xl4RP/rg3reR2FMwVNh9coBtdG/3
-VefMAfeeF3g=
-=417k
+yMIlAnicrVJbSBRRGF7thgt5yaIsqm16ikzOmZkzl32oh6iw0hJRuhjbmTln1kHb
+WXfGVZOuGyVkQUkWUZlQGQSFWhHRzVtJFyiFKCiLUgqitrTosgSd6QI99Nh5OZz/
+/77v//7//N3jR3m8SZ5J8xctjOXsTrrTsb/SU1zeW1TLaRap4fy1XBn9edFyQm0n
+UGYSzs8BCCCRqAQAUBDESNYhJezoWACyLisI8BKvQkXQMKEikIkOEAJIBQISRBlL
+BjF0gLlszjBDQRoJR8yQw2SxDgxd5zHlGUrSIUSaKmmiwgOCDIAMSRCAQgWXWGrZ
+LoOZ07BNc0yLxdgj8NPeP/D/2Xflrzq6qohIEkUo6oRoioSBiIiqIoOohgaAC7Rp
+JIQ3ULe7KhyyuU3ZHAtFTZ26U3Xb+DudY0WCjBWOWI6lW+UsXOo4Ydvv0pyasIur
+olrgt0JAM0OETZAxojRim1aI80OG1B3TlYSiqKqSKotqNkerw2aEBkwXgWRJYRMA
+bh0aZZKQVynVkCAbOhR4AxNe1KECVUSBzCsCEZDM8xr7HEkVDBkImMiYCBpQZWwo
+PCac21NFyGLakPnEQaZpm8EQdiojlNvUeaNktCfJ6xk7JtldLY83Jf3Pwu1bO+77
+jOGW6suPdxYE+h80LJh4fsntw6mPn57saeC0wka/VJH/6Gj7zLr65ou7Zg8vU5s7
+u57DYxuO7B1q9p9u6K4fKfO9fJT8Mb3pycBI5tfejMHBdXv47W1UePatas/SD3H4
+9urGaMmK7pH4nDN5g74GK160+MNBheT2rO4InC0ZSB1Yc6V5ytZ3w6Ivi9uR9vr+
+oc4vbZde30vUFCe6pgXOXW/MDU6Nlgm+eVlpsWeTb2ZNgPG5BwqqN29Z6cReeIPe
+rpZbhtaXaRTW5J84Pt9umpWTXLr+2qvEp4y6Vdti048YFz+X8zHfqXbfUG9f3sIL
+Ta1vLtSmvIfL/f3jE1uX333Y+gPgKkHV
+=32cG
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -63,3 +66,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/awans
 
 ==================================================================
+
