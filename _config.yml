@@ -5,12 +5,14 @@ highlighter:      pygments
 # Permalinks
 permalink:        /:title/
 
+gems: [jekyll-paginate]
+
 # Setup
 title:            awans.org
-tagline:          'idk'
+tagline:          '/'
 description:      'A BLOG OF SALT, SALT AND FORGETTING'
 url:              http://www.awans.org
-emblem:           astro.png
+emblem:           two.png
 
 author:
   name:           'Andrew Wansley'
