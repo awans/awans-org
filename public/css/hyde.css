@@ -21,8 +21,9 @@
  */
 
 html {
-  font-family: "Roboto", sans-serif;
-  font-weight: 300;
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
 }
 @media (min-width: 48rem) {
   html {
@@ -40,9 +41,8 @@ html {
 .page-title,
 .post-title,
 .post-title a {
-  font-family: "Roboto", sans-serif;
-  font-weight: 300;
-  font-size: 22px;
+  font-size: 24px;
+  margin-bottom: 22px;
 }
 
 /*
@@ -72,7 +72,7 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #000;
+  color: #626466;
 }
 
 /* About section */
@@ -96,7 +96,10 @@ html {
 }
 .sidebar-nav-item.active {
   margin-left: 11px;
-  color: #00f;
+  color: #4183C4;
+}
+.sidebar-nav-item.active a {
+  color: #4183C4;
 }
 
 .sidebar-nav-item.active::before {
@@ -107,9 +110,6 @@ html {
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: underline;
-}
-.active a {
-  color: #00f;
 }
 
 .sidebar-pages {
