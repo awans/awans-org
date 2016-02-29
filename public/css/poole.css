@@ -59,7 +59,7 @@ html {
 }
 
 body {
-  color: #626466;
+  color: #444;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -110,6 +110,7 @@ p {
 
 strong {
   color: #303030;
+  font-weight: 500;
 }
 
 
@@ -234,7 +235,7 @@ tbody tr:nth-child(odd) th {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
-  color: #626466;
+  color: #444;
 }
 
 
