@@ -1,37 +1,9 @@
-/*
- * Lightly modified verison of @mdo's hyde theme
- */
-
-
-/*
- * Contents
- *
- * Global resets
- * Sidebar
- * Container
- * Reverse layout
- * Themes
- */
-
-
-/*
- * Global resets
- *
- * Update the foundational and global aspects of the page.
- */
-
 html {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
 }
 @media (min-width: 48rem) {
-  html {
-    font-size: 16px;
-    line-height: 24px;
-  }
-}
-@media (min-width: 58rem) {
   html {
     font-size: 16px;
     line-height: 24px;
@@ -54,9 +26,11 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem 0rem 1rem;
+  padding: 2rem 1rem 1rem 1rem;
   color: black;
   -webkit-transform : translateZ(0);
+  background-color: #fff;
+  box-shadow: 1px 0px 1px 1px #dadada ;
 }
 
 @media (min-width: 48rem) {
@@ -96,10 +70,10 @@ html {
 }
 .sidebar-nav-item.active {
   margin-left: 11px;
-  color: #4183C4;
+  color: #aa0000;
 }
 .sidebar-nav-item.active a {
-  color: #4183C4;
+  color: #aa0000;
 }
 
 .sidebar-nav-item.active::before {
@@ -117,7 +91,9 @@ a.sidebar-nav-item:focus {
 }
 
 .emblem {
-  width: 3rem;
+  width: 8rem;
+  box-shadow: 1px 1px 1px 1px rgba(0,0,0,.2);
+
 }
 
 .moretoggle {
@@ -173,30 +149,6 @@ a.sidebar-nav-item:focus {
   }
 }
 
-
-/*
- * Reverse layout
- *
- * Flip the orientation of the page by placing the `.sidebar` on the right.
- */
-
-@media (min-width: 48rem) {
-  .layout-reverse .sidebar {
-    left: auto;
-    right: 0;
-  }
-  .layout-reverse .content {
-    margin-left: 2rem;
-    margin-right: 20rem;
-  }
-}
-
-@media (min-width: 64rem) {
-  .layout-reverse .content {
-    margin-left: 4rem;
-    margin-right: 22rem;
-  }
-}
 
 img {
     max-width:100%;
