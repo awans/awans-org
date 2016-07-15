@@ -86,7 +86,14 @@ a.sidebar-nav-item:focus {
 }
 
 .emblem {
-  width: 6rem;
+  width: 1.5rem;
+  border-radius: .2rem;
+  display: inline-block;
+  margin-bottom: -.4rem;
+  margin-right: .4rem;
+}
+.name {
+  display: inline-block;
 }
 
 .moretoggle {
