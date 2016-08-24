@@ -21,9 +21,6 @@ html {
   text-align: center;
   padding: 2rem 1rem 1rem 1rem;
   color: black;
-  -webkit-transform : translateZ(0);
-  background-color: #fff;
-  border-right: 1px solid #e4e4e4;
 }
 
 @media (min-width: 48rem) {
@@ -76,11 +73,6 @@ html {
   content: "› ";
 }
 
-a.sidebar-nav-item:hover,
-a.sidebar-nav-item:focus {
-  text-decoration: underline;
-}
-
 .sidebar-pages {
   padding-bottom:.5rem;
 }
@@ -89,7 +81,7 @@ a.sidebar-nav-item:focus {
   width: 1.5rem;
   border-radius: .2rem;
   display: inline-block;
-  margin-bottom: -.4rem;
+  margin-bottom: -.3rem;
   margin-right: .4rem;
 }
 .name {

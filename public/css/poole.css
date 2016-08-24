@@ -22,7 +22,7 @@ html {
 
 body {
   color: #222;
-  background: #fafafa;
+  background: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -31,11 +31,6 @@ body {
 a {
   color: #c00;
   text-decoration: none;
-}
-/* `:focus` is linked to `:hover` for basic accessibility */
-a:hover,
-a:focus {
-  text-decoration: underline;
 }
 
 /* Headings */
