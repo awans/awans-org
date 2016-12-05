@@ -1,0 +1,49 @@
+<html>
+<!DOCTYPE html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <link href="https://twitter.com/awans" rel="me">
+  <link href="https://github.com/awans" rel="me">
+  <link href="sms:+17037919267" rel="me">
+  <link href="mailto:andrew.wansley@gmail.com" rel="me">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/css/reset.css">
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/magnific-popup.css">
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/favicon.png">
+
+  <!-- RSS -->
+  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+
+  <!-- Scripts -->
+  <script src="/js/jquery.min.js"></script>
+  <script src="/js/jquery.magnific-popup.min.js"></script>
+  <script>
+    $(function () {
+      $('.image-link').magnificPopup({
+        type: 'image',
+        disableOn: 400,
+        closeOnContentClick: true,
+        showCloseBtn: false,
+      });
+    });
+  </script>
+  <title> {{ .Title }}</title>
+</head>
+
+<body>
+  <div id="all">
+  <div id="content">
+  <h1>
+    <a class="sigil-link" href="/">
+      <img class="sigil" src="{{ .Site.Params.sigil }}" />
+    </a>
+    {{ .Title }}
+  </h1>

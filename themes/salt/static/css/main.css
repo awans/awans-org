@@ -1,0 +1,85 @@
+body {
+  font-family: -apple-system,BlinkMacSystemFont,'Segoe UI','Roboto','Oxygen','Ubuntu','Cantarell','Fira Sans','Droid Sans','Helvetica Neue',sans-serif;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  color: #222;
+  font-size: 16px;
+  line-height: 28px;
+  background: #c00;
+}
+
+#all {
+  background: white;
+  overflow: hidden;
+  width: 100%;
+  min-height: 100vh;
+}
+#content {
+  margin: 0 auto 50px;
+  max-width: 575px;
+  padding: 18px;
+}
+
+
+@media (min-width: 48rem) {
+  body {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  #content {
+    margin: 50px auto;
+  }
+}
+
+.sigil {
+  width: 22px;
+  height: 22px;
+  border-radius: 4px;
+  display: inline-block;
+  margin-bottom: -6px;
+  margin-right: 8px;
+}
+.pages {
+  margin-bottom: 24px;
+}
+h1 {
+  margin-bottom: 32px;
+}
+p {
+  margin-bottom: 8px;
+}
+a {
+  color: #222;
+  text-decoration: none;
+  background-image: linear-gradient(to bottom,rgba(0,0,0,.6) 50%,rgba(0,0,0,0) 50%);
+  background-repeat: repeat-x;
+  background-size: 2px 3px;
+  background-position: 0 17px;
+}
+a.sigil-link {
+  background: none;
+}
+a.sigil-link:hover {
+  background: none;
+}
+.description {
+  color: #666;
+}
+a:hover {
+  background-image: linear-gradient(to bottom,rgba(205,0,0,.6) 50%,rgba(205,0,0,0) 50%);
+}
+ul.posts > li {
+  margin-bottom: 12px;
+}
+pre {
+  font-family: monospace;
+  font-size: 14px;
+  margin: 12px 0;
+  padding: 8px 12px;
+  background: #eee;
+}
+.thumbnail {
+  width: 100%;
+  margin: 12px 0;
+}

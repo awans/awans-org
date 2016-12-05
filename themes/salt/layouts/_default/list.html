@@ -1,0 +1,22 @@
+{{ template "theme/partials/header.html" . }}
+<div class="pages">
+    {{ range $index, $page := where .Data.Pages "Section" "page" }}
+      <span>
+        {{ if $index }}
+         /
+        {{ end }}
+        <a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a>
+      </span>
+    {{ end }}
+</div>
+<ul class="posts">
+    {{ range where .Data.Pages "Section" "post" }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ if .Description }}
+       <span class="description">- {{ .Description }}</span>
+      {{ end }}
+    </li>
+    {{ end }}
+</ul>
+{{ template "theme/partials/footer.html" . }}

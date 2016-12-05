@@ -1,0 +1,9 @@
+baseurl: http://awans.org
+disablePathToLower: true
+languageCode: en-us
+title: Index
+theme: salt
+pygmentsstyle: friendly
+PygmentsCodeFences: true
+params:
+  sigil: /two.png
