@@ -2,6 +2,7 @@
 date: 2014-03-24T00:00:00Z
 title: Pixel Sorting
 url: /pixelsorting/
+description: glitchy images
 ---
 
 A while back, I wanted to experiment with the [Go programming language](http://www.golang.org), and I had been looking at [Kim Asendorf's awesome pixelsorting](http://kimasendorf.com/mountain-tour/) art. Kim released [his implementation](https://twitter.com/kimasendorf/status/254212367561420802) of his algorithm, and so I decided to port it to Go with some minor modifications.

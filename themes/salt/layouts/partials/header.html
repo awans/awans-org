@@ -14,7 +14,6 @@
   <!-- CSS -->
   <link rel="stylesheet" href="/css/reset.css">
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="stylesheet" href="/css/magnific-popup.css">
 
   <!-- Icons -->
   <link rel="shortcut icon" href="/favicon.png">
@@ -23,18 +22,6 @@
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
 
   <!-- Scripts -->
-  <script src="/js/jquery.min.js"></script>
-  <script src="/js/jquery.magnific-popup.min.js"></script>
-  <script>
-    $(function () {
-      $('.image-link').magnificPopup({
-        type: 'image',
-        disableOn: 400,
-        closeOnContentClick: true,
-        showCloseBtn: false,
-      });
-    });
-  </script>
   <title> {{ .Title }}</title>
 </head>
 

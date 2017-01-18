@@ -9,6 +9,16 @@
       </span>
     {{ end }}
 </div>
+<ul class="projects">
+    {{ range where .Data.Pages "Section" "project" }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ if .Description }}
+       <span class="description">- {{ .Description }}</span>
+      {{ end }}
+    </li>
+    {{ end }}
+</ul>
 <ul class="posts">
     {{ range where .Data.Pages "Section" "post" }}
     <li>
