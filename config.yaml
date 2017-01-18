@@ -6,4 +6,4 @@ theme: salt
 pygmentsstyle: friendly
 PygmentsCodeFences: true
 params:
-  sigil: /two.png
+  sigil: /two-small.png
