@@ -1,2 +1,2 @@
 hugo
-rsync -r public/ awans:/home/ec2-user/awans_org
+rsync -r public/ ec2-user@awans.org:/home/ec2-user/awans_org

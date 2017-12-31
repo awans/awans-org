@@ -3,6 +3,8 @@ title: About
 url: /about/
 ---
 
+{{< image "portrait.jpg" >}}
+
 Hi, I'm Andrew Wansley.
 
 I live in San Francisco. I'm working on helping people get health coaching at [Welkin Health](https://www.welkinhealth.com/).
