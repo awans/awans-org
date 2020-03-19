@@ -63,6 +63,9 @@ a.sigil-link {
 a.sigil-link:hover {
   background: none;
 }
+a.image-link {
+  background: none;
+}
 .description {
   color: #666;
 }
