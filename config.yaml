@@ -7,3 +7,5 @@ pygmentsstyle: friendly
 PygmentsCodeFences: true
 params:
   sigil: /two-small.png
+Permalinks:
+  gopkg: "/:filename/"
