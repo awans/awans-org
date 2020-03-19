@@ -1,4 +1,4 @@
-{{ template "theme/partials/header.html" . }}
+{{ template "partials/header.html" . }}
 <div class="pages">
     {{ range $index, $page := where .Data.Pages "Section" "page" }}
       <span>
@@ -29,4 +29,4 @@
     </li>
     {{ end }}
 </ul>
-{{ template "theme/partials/footer.html" . }}
+{{ template "partials/footer.html" . }}
