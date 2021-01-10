@@ -37,22 +37,21 @@ Tiny bit of echonest code is [here](https://github.com/awans/music-visualization
 
 
 <div>
-<style>
-    .sigma-container {
-    width:100%;
-    height:400px;
-    border:1px solid #ccc;
-    }
-</style>
- <script src="/js/sigma/sigma.min.js"></script>
- <script src="/js/sigma/plugins/sigma.parsers.gexf.min.js"></script>
- <script>
-   sigma.parsers.gexf(
-     '/data/holyother.gexf', { container: 'sigma-holyother' }, function(s) {}
-     );
-
-   sigma.parsers.gexf(
-         '/data/boc.gexf', { container: 'sigma-boc' }, function(s) {}
-         );  
- </script>
+    <style>
+        .sigma-container {
+            width:100%;
+            height:400px;
+            border:1px solid #ccc;
+        }
+    </style>
+    <script src="/js/sigma/sigma.min.js"></script>
+    <script src="/js/sigma/plugins/sigma.parsers.gexf.min.js"></script>
+    <script type="text/javascript">
+     sigma.parsers.gexf(
+       '/data/holyother.gexf', { container: 'sigma-holyother' }, function(s) {}
+       );
+     sigma.parsers.gexf(
+       '/data/boc.gexf', { container: 'sigma-boc' }, function(s) {}
+       );  
+   </script>
 </div>

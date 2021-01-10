@@ -9,3 +9,7 @@ params:
   sigil: /two-small.png
 Permalinks:
   gopkg: "/:filename/"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

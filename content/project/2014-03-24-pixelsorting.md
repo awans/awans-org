@@ -11,4 +11,4 @@ You can find the code I wound up with [here](https://github.com/awans/pixelsort)
 
 Roughly, the idea is to scan through the image column by column or row by row and look for contiguous runs of pixels above some brightness threshold. Upon finding a run, the pixels are sorted by brightness. Playing with different versions of brightness and different thresholds can produce some interesting results.
 
-I wound up writing a short convenience wrapper to pixelsort a whole directory of images at once at a variety of brightness thresholds. You can see some of my favorites [here](https://plus.google.com/+AndrewWansley/posts/e2fq5LDxRtL) or [here](https://plus.google.com/+AndrewWansley/posts/TkrdwDRFHYp).
+I wound up writing a short convenience wrapper to pixelsort a whole directory of images at once at a variety of brightness thresholds.
