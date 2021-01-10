@@ -3,18 +3,12 @@ body {
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  color: #222;
-  font-size: 16px;
-  line-height: 28px;
-  background: rgba(82, 52, 224, .6);
+  color: #d8dee9;
+  font-size: 18px;
+  line-height: 1.6;
+  background: #111c22;
 }
 
-#all {
-  background: white;
-  overflow: hidden;
-  width: 100%;
-  min-height: 100vh;
-}
 #content {
   margin: 0 auto 50px;
   max-width: 575px;
@@ -23,10 +17,6 @@ body {
 
 
 @media (min-width: 48rem) {
-  body {
-    font-size: 16px;
-    line-height: 24px;
-  }
   #content {
     margin: 50px auto;
   }
@@ -47,27 +37,14 @@ h1 {
   margin-bottom: 32px;
 }
 p {
-  margin-bottom: 18px;
+  margin-bottom: 1.5rem;
 }
 a {
-  color: rgb(0, 20, 169);
   text-decoration: none;
-  background-image: linear-gradient(to bottom,rgba(0,20,169,.6) 50%,rgba(0,20,169,0) 50%);
-  background-repeat: repeat-x;
-  background-size: 2px 3px;
-  background-position: 0 17px;
-}
-a.sigil-link {
-  background: none;
-}
-a.sigil-link:hover {
-  background: none;
+  color: #ec5f67;
 }
 a.image-link {
   background: none;
-}
-.description {
-  color: #666;
 }
 ul {
   list-style: circle;
