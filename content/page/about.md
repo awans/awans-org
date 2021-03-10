@@ -1,15 +1,16 @@
 ---
-title: About
-url: /about/
+title: Andrew Wansley
 ---
 
-{{< image "portrait.jpg" >}}
+I'm a technologist and software engineer. I'm interested in databases, security, and climate change. 
 
-Hi, I'm Andrew Wansley. I live in San Francisco. I've had the opportunity to work on a bunch of cool stuff:
 
-* I was the CTO of [Welkin Health](https://www.welkinhealth.com/), a healthcare CRM
-* I was a product manager at Google. I contributed to Google Now, Google Maps, and the OAuth 2.0 protocol
-* I was a CS/Econ major at Dartmouth, and a debater on APDA
+I started my career as a product manager at Google where I contributed to Now, Maps, and OAuth 2.0. After that, I was CTO of [Welkin Health](https://www.welkinhealth.com/), a healthcare CRM. I've spent the last year building [Aft](https://aft.dev), an indie backend-as-a-service.
 
-You can find my code at [github.com/awans](https://www.github.com/awans) and my music at [soundcloud.com/awans](https://www.soundcloud.com/awans)
-I am [@awans](https://www.twitter.com/awans) on Twitter and [andrew.wansley@gmail.com](mailto:andrew.wansley@gmail.com).
+## Work
+
+I'm currently working as generalist freelance software engineer. I have special expertise in building secure, performant, highly flexible systems like CRMs, or databases.
+
+I'm also available to help early startups establish a security program, especially those working in healthcare. 
+
+If you're interested in learning more, or just want say hello, please email me at [andrew@monstera.dev](mailto:andrew@monstera.dev).

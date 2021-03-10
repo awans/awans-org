@@ -1,14 +1,13 @@
 {{ template "partials/header.html" . }}
-<div class="pages">
-    {{ range $index, $page := where .Site.RegularPages "Section" "page" }}
-      <span>
-        {{ if $index }}
-         /
-        {{ end }}
-        <a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a>
-      </span>
-    {{ end }}
+
+{{ with .Site.GetPage "about.md" }}
+<div class="intro">
+  <h2>{{ .Title }}</h2>
+  {{ .Content }}
 </div>
+{{ end }}
+
+<h2>Projects</h2>
 <ul class="projects">
     {{ range where .Site.RegularPages "Section" "project" }}
     <li>
@@ -19,6 +18,9 @@
     </li>
     {{ end }}
 </ul>
+
+<h2>Writing</h2>
+
 <ul class="posts">
     {{ range where .Site.RegularPages "Section" "post" }}
     <li>
@@ -29,4 +31,5 @@
     </li>
     {{ end }}
 </ul>
+
 {{ template "partials/footer.html" . }}

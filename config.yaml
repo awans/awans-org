@@ -6,7 +6,7 @@ theme: salt
 pygmentsstyle: dracula
 PygmentsCodeFences: true
 params:
-  sigil: /two-small.png
+  sigil: /monstera.png
 Permalinks:
   gopkg: "/:filename/"
 markup:

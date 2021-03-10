@@ -12,7 +12,7 @@
   <link href="mailto:andrew.wansley@gmail.com" rel="me">
 
   <!-- CSS -->
-  <link rel="stylesheet" href="/css/reset.css">
+  <link rel="stylesheet" href="/css/sanitize.css">
   <link rel="stylesheet" href="/css/main.css">
 
   <!-- Icons -->
@@ -24,9 +24,6 @@
 <body>
   <div id="all">
   <div id="content">
-  <h1>
-    <a class="sigil-link" href="/">
-      <img class="sigil" src="{{ .Site.Params.sigil }}" />
-    </a>
-    {{ .Title }}
-  </h1>
+  <a class="sigil-link" href="/">
+    <img class="sigil" src="{{ .Site.Params.sigil }}" />
+  </a>

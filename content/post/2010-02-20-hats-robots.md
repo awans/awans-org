@@ -6,7 +6,7 @@ url: /hats-robots/
 
 Three of my favorite puzzles. They increase in difficulty and nerdiness. If you’ve had some discrete math, give the last one a shot before you look at the answer; there’s a hint for the hard version in the title of this post, but don't get too excited—it's pretty hard.
 
-# The easy version
+## The easy version
 
 Ten robots are given hats; each hat is either red or blue. The robots are standing in a line facing forward, so each robot can see the robots ahead of itself in line but not those behind it.
 
@@ -26,7 +26,7 @@ Or if it sees an odd number of red hats, it knows it must have a red hat by simi
 
 And so at least nine of the robots can be saved from Hamming.
 
-# The trickier version
+## The trickier version
 
 What if instead of just getting red or blue hats, the robots got red, blue or green hats? In this instance, robots can reply to questions about their hat color with “red,” “blue,” or “green”, but all of the other rules are the same.
 

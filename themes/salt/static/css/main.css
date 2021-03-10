@@ -1,12 +1,10 @@
 body {
-  font-family: -apple-system,BlinkMacSystemFont,'Segoe UI','Roboto','Oxygen','Ubuntu','Cantarell','Fira Sans','Droid Sans','Helvetica Neue',sans-serif;
-  font-weight: 400;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  color: #d8dee9;
-  font-size: 18px;
-  line-height: 1.6;
-  background: #00011b;
+  color: #171717;
+  font-size: 16px;
+  line-height: 1.7;
+  background: #f7f7f7;
 }
 
 #content {
@@ -23,25 +21,29 @@ body {
 }
 
 .sigil {
-  width: 22px;
-  height: 22px;
-  border-radius: 4px;
-  display: inline-block;
-  margin-bottom: -6px;
-  margin-right: 8px;
+  width: 64px;
+  height: 64px;
+  display: block;
+  margin-bottom: 2rem;
 }
-.pages, .projects {
-  margin-bottom: 24px;
+
+.pages, .projects, .intro {
+  margin-bottom: 3rem;
 }
-h1 {
-  margin-bottom: 32px;
+
+h1, h2, h3 {
+  font-size: inherit;
+  font-weight: 600;
+  margin-bottom: 2rem;
 }
+
 p {
-  margin-bottom: 1.5rem;
+  margin-bottom: 2rem;
 }
+
 a {
   text-decoration: none;
-  color: #ec5f67;
+  color: #4caf50;
 }
 a.image-link {
   background: none;
@@ -72,9 +74,8 @@ pre {
   margin: 12px 0;
 }
 .post > h1, .post > h2, .post > h3, .post > h4 {
-  font-size: 120%;
-  margin-top: 48px;
-  margin-bottom: 18px;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
 }
 em {
   font-style: italic;
