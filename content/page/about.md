@@ -19,6 +19,6 @@ If you're interested in learning more, or just want say hello, please email me a
 
 I live in San Francisco. I try to enjoy the beautiful nature all around the Bay Area, whether hiking, on my bike, or just keeping my eyes open. I make [music](https://soundcloud.com/awans), and sometimes share it online.
 
-I run a Bay Area based [men's group](/mens-group/). I'm an advocate for a strong sense of ethics at technology companies, as well as making them accessible and welcoming to as many people as possible.
+I facilitate a Bay Area [men's group](/mens-group/). I'm an advocate for a strong sense of ethics at technology companies, as well as making them accessible and welcoming to as many people as possible.
 
 This domain is named after _monstera deliciosa_, a beautiful house plant.
