@@ -4,6 +4,8 @@ title: The Perspective
 url: /the-perspective/
 ---
 
+_Current Status: Draft_
+
 I was raised Catholic, but left the church some time around 7th grade. I remember the week where I accepted that I didn't believe anymore, and then sat stunned, confronting my own mortality. 
 
 I've never recovered.
