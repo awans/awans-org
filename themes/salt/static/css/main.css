@@ -48,11 +48,12 @@ a {
 a.image-link {
   background: none;
 }
-ul {
-  list-style: circle;
-  padding-left: 22px;
-  margin-bottom: 18px;
+ul, ol {
+  padding-left: 0;
+  list-style-position: inside;
 }
+
+
 ul.posts, ul.projects {
   list-style: none;
   padding-left: 0;
@@ -79,4 +80,26 @@ pre {
 }
 em {
   font-style: italic;
+}
+
+/* footnotes styling */
+sup, sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+sub {
+  top: 0.4em;
+}
+.footnote-backref {
+  font-family: sans-serif;
+}
+.footnotes p {
+  display: inline;
+}
+.footnotes li {
+  margin-bottom: 1em;
+}
+.footnotes {
+  font-size: 14px;
 }
