@@ -22,10 +22,9 @@ But there's so far no good reason to believe that there's anything else beyond t
 
 On the other hand, there is good reason to believe we understand how humans came to be—we evolved. We're a highly complex form of self-replicating matter, and tuned for our environment, or at least an approximation of it.
 
-Taking the physicality of humans seriously means believing that "the mind is what the brain does". That is to say, believing that all of our mental states have corresponding physical manifestations.
+Taking the physicality of humans seriously means believing that "the mind is what the body does". That is to say, believing that all of our mental states have corresponding physical manifestations. 
 
 And further, that those mental states were shaped by the same forces that the rest of our bodies were: evolutionary fitness. That's not a simple, or even a single process,[^darwinian_populations] and it's certainly not the only force that's shaped us so I don't mean to overly reduce. 
-
 
 I mention it to draw out a key implication: that ideas of morality, meaning, purpose or other "oughts" and "shoulds" don't exist somehow outside of us. There are no right answers; there isn't an experiment you can run, a tradition you can consult, any data you can collect that will tell you what's right. [^street] [^greene]
 
@@ -48,9 +47,9 @@ There may not be right answers, but there are still wrong ones: you can be out o
 
 Others might diverge from me more substantially here. I find myself sympathetic to a broadly utilitarian or consequentialist understanding of morality. Suffering is bad, and whatever its opposite, let's call it wellbeing, is good.
 
-Pragmatically though, I believe we're in a very poor position to make judgments about what's best for the wellbeing of others, and only slightly better suited to make judgments about what's best for ourselves.
+Pragmatically though, I believe we're in a very poor position to make judgments about what's best for the wellbeing of others, and only slightly better suited to make judgments about what's best for ourselves. Traditional dietary prohibitions are a fine example: "don't eat that bush; it'll kill you" is a lot more efficiently learned through culture than experience or reasoning from first-principles.
 
-Fortunately, we've been prepared with a baseline set of norms, expectations, and practices that we know work decently: those provided by evolution, and by our culture. 
+Fortunately, we've been prepared with a baseline set of norms, expectations, and practices that we know work decently: those provided by evolution, and by our culture.
 
 So we start with what's in our environment, and then make a set of edits to it that try and move it in a better direction, or just a direction better suited to our own idiosyncratic self. And we do it with an appropriate modesty—recognizing that long-held traditions and evolutionary forces may have a lot of wisdom compared to our ability to reason from first principles.
 
@@ -73,11 +72,11 @@ I take this to mean that economics is fairly good at predicting our behavior in 
 
 We are, of course, "clannish" and tend to essentialize others in a variety of ways.[^appiah] This is a great source of suffering in the world. Most forms of identity are contingent, and arbitrary, and certainly don't carry any sort of moral weight.
 
-
 One great project for humanity is to overcome this innate tribalism, and embrace a more cosmopolitan vision for ourselves and the world. Whether the lines of division are cultural, racial, gender, religious, or species, we ought to strive to see others as equally deserving of concern and respect.
 
-Relatedly, cultural differences may be vast, and communicating or coordinating across them may be difficult. Our history is full of stories where people on both sides are doing the best they can in terms of their own cultural understanding, and things go horribly awry. [^spirit] It is therefore a virtue to be aware of one's own culture, and of the cultures of others we may encounter.
+That's not to say that identities are useless or bad—they're highly functional. They can bring us together, convince us that it's worth working together, and help us negotiate social relations. Indeed, understanding and navigating identity in some situations can be a matter of life and death. The mistake is in thinking of identites too rigidly, or in ascribing moral weight to identites where that doesn't belong.
 
+Relatedly, cultural differences may be vast, and communicating or coordinating across them may be difficult. Our history is full of stories where people on both sides are doing the best they can in terms of their own cultural understanding, and things go horribly awry. [^spirit] It is therefore a virtue to be aware of one's own culture, and of the cultures of others we may encounter.
 
 Finally, cultural interchange leads to a richer experience for all of humanity. That's true in art, food, music, and relationships of all sorts. It is similarly a virtue to be open to and curious about the lives of those who fall outside of our experience. [^srinivasan] [^solomon]
 
@@ -88,7 +87,7 @@ Finally, cultural interchange leads to a richer experience for all of humanity. 
 
 # Psychology
 
-One core idea is that humans will grow in a positive direction in a supportive environment. If a person has a relationship in their life that is accepting, understanding, positive, and authentic, they can use that relationship like a ladder to move in a direction where they become more fully themselves and in better harmony with others. [^rogers]
+One core idea I have is that humans will grow in a positive direction in a supportive environment. If a person has a relationship in their life that is accepting, understanding, positive, and authentic, they can use that relationship like a ladder to move in a direction where they become more fully themselves and in better harmony with others. [^rogers]
 
 In practice, these ideas lead me to strive to listen more than I talk, and ask questions, or raise possibilities more than I give instruction or advice.
 
@@ -99,6 +98,20 @@ Through language, we might come to know an approximation, but we rarely get it e
 More than anything else, this makes compassion one of my core values.
 
 [^rogers]: [On Becoming a Person](https://www.amazon.com/Becoming-Person-Therapists-View-Psychotherapy/dp/039575531X) by Carl Rogers
+
+# The Self
+
+Some people believe that the self does not exist, or that the idea is incoherent. They're wrong. The fact that the boundary between self and non-self isn't always clear, or that the line is arbirarily drawn no more means the self does not exist than it means that "red" does not exist becuase we can identify "maroon" or "vermillion" or "reddish blue".
+
+As with our identities, the mistake is in being overly rigid, or overly simplistic. Our minds are influenced by our environment, our bodies, our history, our gut flora, and a million other things. Anyone who's experienced "hanger", a serious crush, or therapy intuitively understands some of the complexity here.
+
+Self-awareness is not easily earned. Because of our fundamental inability to understand others, we can't compare ourselves to others and know how we differ. Knowing one's strengths and weaknesses, or one's hurt spots, ticklish spots, and overall quirks will make us better able to live our own lives, and live in harmony with others.
+
+Everybody has their stuff, good and bad, and we do ourselves no favor by ignoring or denying the existence of any thought, feeling, impulse inside of us. We're typically not alone in feeling the ways we feel, especially in the areas we may feel that way the most. And anyway, we're not obligated to _do_ anything in particular with any of those thoughts or feelings or impulses, so they're not in themselves any threat to us.
+
+In fact, much of the task of living for all of us is in synthesizing a some kind of whole out of the great jumble inside. That process can only take place if we start by _accepting_ what is there. I've found that for me, that self-acceptance requires a certain degree of positive thinking; I have to actually like myself. That's not always easy, and might require really understanding what each part of ourselves needs, or is motivated by. 
+
+To the point in the previous section about an accepting, positive environment, for many of us it will be easier to like and accept ourselves if we can experience the genuine care and compassion of another person. Therapy is great for this.
 
 # Limits of Culture and Evolution
 
