@@ -129,7 +129,7 @@ Overall, to me, this perspective is optimistic. It gives me hope for humanity—
 
 [^longnow]: [The Long Now](https://longnow.org/)
 
-[^oliver]: [The Summer Day](https://www.loc.gov/programs/poetry-and-literature/poet-laureate/poet-laureate-projects/poetry-180/all-poems/item/poetry-180-133/the-summer-day/)
+[^oliver]: [The Summer Day](https://www.loc.gov/programs/poetry-and-literature/poet-laureate/poet-laureate-projects/poetry-180/all-poems/item/poetry-180-133/the-summer-day/) by Mary Oliver
 
 
 
