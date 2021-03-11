@@ -38,9 +38,9 @@ What to Do About it]([https://emilkirkegaard.dk/en/wp-content/uploads/Joshua-D.-
 
 There's really only one path forward from accepting that point: we have to make it up. 
 
-Theoretically this is a nihlistic perspective, but pragmatically, it's an existentialist one. We make our own meaning, and make our own judgments about how we wish to live our lives.
+Theoretically this is a nihilistic perspective, but pragmatically, it's an existentialist one. We make our own meaning, and make our own judgments about how we wish to live our lives.
 
-There may not be right answers, but there are still wrong ones: you can be out of alignment with yourself. The task then is to take one's ideas, and hold each one up in the light of the others, and somehow bring them in to equilibrium.
+There may not be right answers, but there are still wrong ones: you can be out of alignment with yourself. The task then is to take one's ideas, and hold each one up in the light of the others, and somehow bring them into equilibrium.
 
 # Values and Utility
 
@@ -100,11 +100,11 @@ More than anything else, this makes compassion one of my core values.
 
 # Limits of Culture and Evolution
 
-While we owe our evolutionary and cultural inheritence gratitude and a broad deference, there are exceptions.
+While we owe our evolutionary and cultural inheritance gratitude and a broad deference, there are exceptions.
 
-Death is a tragedy. It is possible for beings like us to be immortal with voluntary death. There is a kind of mass delusion we're under because the alternative is unimagineable. [^bostrom]
+Death is a tragedy. It is possible for beings like us to be immortal with voluntary death. There is a kind of mass delusion we're under because the alternative is unimaginable. [^bostrom]
 
-There are predictable ways that evolution may fail us. Cases where different tradeoffs may be appropraite for our environment today compared to the past, cases where our values and evolution's diverge, and cases where we can do things that evolution simply could not. [^bostrom2]
+There are predictable ways that evolution may fail us. Cases where different tradeoffs may be appropriate for our environment today compared to the past, cases where our values and evolution's diverge, and cases where we can do things that evolution simply could not. [^bostrom2]
 
 We're limited by our culture, too. Freud had a theory that "hysteria" in women was caused by sexual assault. His peers couldn't accept that theory, because it would imply that women were sexually assaulted at far greater rates than they could psychologically accept. Freud recanted, but of course we know today that he was right. [^herman]
 
@@ -123,14 +123,13 @@ That doesn't mean it's hopeless to try and understand: properly applied statisti
 [^cook]: [How Complex Systems Fail](https://how.complexsystems.fail/) by Richard Cook
 [^abandon]: [Abandon Statistical Significance](https://www.tandfonline.com/doi/full/10.1080/00031305.2018.1527253) by Blakeley B. McShane, David Gal, Andrew Gelman, Christian Robert, Jennifer L. Tackett
 
-# Concluding Thoughts
+# The Future
 
-Overall this perspective is an optimistic one. It gives me hope for humanity—I believe we can overcome many of the sources of human and non-human suffering, and though we should do so with exceptional care, we can and should continue to shape and modify human nature through our culture, practices, and technology.
-
-What's needed more than anything else is wisdom. A well-considered, long-term[^longnow] perspective needs to guide our individual lives, and our collective destiny.
+Overall, to me, this perspective is optimistic. It gives me hope for humanity—I believe we can overcome many of the sources of human and non-human suffering in the long term[^longnow]. And I believe it is within each of our power to live and enjoy and make meaning out of our one wild and precious life[^oliver].
 
 [^longnow]: [The Long Now](https://longnow.org/)
 
+[^oliver]: [The Summer Day](https://www.loc.gov/programs/poetry-and-literature/poet-laureate/poet-laureate-projects/poetry-180/all-poems/item/poetry-180-133/the-summer-day/)
 
 
 
