@@ -140,7 +140,7 @@ That doesn't mean it's hopeless to try and understand: properly applied statisti
 
 # The Future
 
-Overall, to me, this perspective is optimistic. It gives me hope for humanity—I believe we can overcome many of the sources of human and non-human suffering in the long term[^longnow]. And I believe it is within each of our power to live and enjoy and make meaning out of our one wild and precious life[^oliver].
+Overall, to me, this perspective is optimistic. It gives me hope for humanity—I believe we can overcome many of the sources of human and non-human suffering in the long term.[^longnow] And I believe it is within each of our power to live and enjoy and make meaning out of our one wild and precious life.[^oliver]
 
 [^longnow]: [The Long Now](https://longnow.org/)
 
