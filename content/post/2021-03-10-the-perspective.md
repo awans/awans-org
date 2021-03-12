@@ -101,7 +101,7 @@ More than anything else, this makes compassion one of my core values.
 
 # The Self
 
-Some people believe that the self does not exist, or that the idea is incoherent. They're wrong. The fact that the boundary between self and non-self isn't always clear, or that the line is arbirarily drawn no more means the self does not exist than it means that "red" does not exist becuase we can identify "maroon" or "vermillion" or "reddish blue".
+Some people believe that the self does not exist, or that the idea is incoherent. They're wrong. The fact that the boundary between self and non-self isn't always clear, or that the line is arbitrarily drawn no more means the self does not exist than it means that "red" does not exist because we can identify "maroon" or "vermillion" or "reddish blue".
 
 As with our identities, the mistake is in being overly rigid, or overly simplistic. Our minds are influenced by our environment, our bodies, our history, our gut flora, and a million other things. Anyone who's experienced "hanger", a serious crush, or therapy intuitively understands some of the complexity here.
 
@@ -109,7 +109,7 @@ Self-awareness is not easily earned. Because of our fundamental inability to und
 
 Everybody has their stuff, good and bad, and we do ourselves no favor by ignoring or denying the existence of any thought, feeling, impulse inside of us. We're typically not alone in feeling the ways we feel, especially in the areas we may feel that way the most. And anyway, we're not obligated to _do_ anything in particular with any of those thoughts or feelings or impulses, so they're not in themselves any threat to us.
 
-In fact, much of the task of living for all of us is in synthesizing a some kind of whole out of the great jumble inside. That process can only take place if we start by _accepting_ what is there. I've found that for me, that self-acceptance requires a certain degree of positive thinking; I have to actually like myself. That's not always easy, and might require really understanding what each part of ourselves needs, or is motivated by. 
+In fact, much of the task of living for all of us is in synthesizing some kind of whole out of the great jumble inside. That process can only take place if we start by _accepting_ what is there. I've found that for me, that self-acceptance requires a certain degree of positive thinking; I have to actually like myself. That's not always easy, and might require really understanding what each part of ourselves needs, or is motivated by. 
 
 To the point in the previous section about an accepting, positive environment, for many of us it will be easier to like and accept ourselves if we can experience the genuine care and compassion of another person. Therapy is great for this.
 
