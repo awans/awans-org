@@ -4,8 +4,6 @@ title: The Perspective
 url: /the-perspective/
 ---
 
-_Current Status: Draft_
-
 I was raised Catholic, but left the church some time around 7th grade. I remember the week where I accepted that I didn't believe anymore, and then sat stunned, confronting my own mortality. 
 
 I've never recovered.
@@ -61,12 +59,13 @@ There are some related views that I connect with the perspective a bit more loos
 
 # Human Nature
 
-Human nature, being shaped by evolution, is self-interested. Most of ordinary life is taken up by the individual striving to meet their basic needs.
+Human nature, being shaped by evolution, is self-interested. Most of ordinary life is appropriately taken up by the individual striving to meet their basic needs. In addition, to be self-interested is often to be pro-social. We have a lots of collaborative and friendly intuitions, drives, and strategies that benefit us, individually and collectively.
 
-I believe that humans in our culture are very broadly pro-social; we mostly want to get along, and care about the wellbeing of others we encounter. I believe this is largely due to environmental factors: we've created a tremendous amount of social and cultural technology to try and draw out this pro-social side of our nature. 
+I believe we've created a tremendous amount of social and cultural technology to try and draw out and emphasize this pro-social side of our nature. Most societies, for example, have some controls or restrictions on the use of violence, and some form of resource sharing.
 
-I take this to mean that economics is fairly good at predicting our behavior in the aggregate. I also take this to mean that humans are not a caricature of a rational self-interested agent.
+I take this to mean that economics is fairly good at predicting our behavior in the aggregate. The naive critique of economics that humans are irrational is neatly dodged by conceptualizing economics on a more modest assumption: that people respond predictably, if not consistently, to prices.
 
+I also take this to mean that humans are not a caricature of a rational self-interested agent. The tools of psychology and sociology are often a better fit for understanding the subtleties of decision making, culture, personality, and emotions. Though even here, often applying economic analysis to such goods as "respect", "status" or "attention" may be insightful.
 
 # Identity
 
@@ -74,7 +73,7 @@ We are, of course, "clannish" and tend to essentialize others in a variety of wa
 
 One great project for humanity is to overcome this innate tribalism, and embrace a more cosmopolitan vision for ourselves and the world. Whether the lines of division are cultural, racial, gender, religious, or species, we ought to strive to see others as equally deserving of concern and respect.
 
-That's not to say that identities are useless or bad—they're highly functional. They can bring us together, convince us that it's worth working together, and help us negotiate social relations. Indeed, understanding and navigating identity in some situations can be a matter of life and death. The mistake is in thinking of identites too rigidly, or in ascribing moral weight to identites where that doesn't belong.
+That's not to say that identities are useless or bad—they're highly functional. They can bring us together, convince us that it's worth working together, and help us negotiate social relations. Indeed, understanding and navigating identity in some situations can be a matter of life and death. The mistake is in thinking of identities too rigidly, or in ascribing moral weight to identities where that doesn't belong.
 
 Relatedly, cultural differences may be vast, and communicating or coordinating across them may be difficult. Our history is full of stories where people on both sides are doing the best they can in terms of their own cultural understanding, and things go horribly awry. [^spirit] It is therefore a virtue to be aware of one's own culture, and of the cultures of others we may encounter.
 
@@ -105,11 +104,15 @@ Some people believe that the self does not exist, or that the idea is incoherent
 
 As with our identities, the mistake is in being overly rigid, or overly simplistic. Our minds are influenced by our environment, our bodies, our history, our gut flora, and a million other things. Anyone who's experienced "hanger", a serious crush, or therapy intuitively understands some of the complexity here.
 
+Likewise, our notions of self are more directly under our cognitive influence than, say, the sensations of redness or hunger. Remaining open and expansive in one's self-conception, especially where it concerns one's future, is likely to help avoid a bunch of needless suffering.
+
 Self-awareness is not easily earned. Because of our fundamental inability to understand others, we can't compare ourselves to others and know how we differ. Knowing one's strengths and weaknesses, or one's hurt spots, ticklish spots, and overall quirks will make us better able to live our own lives, and live in harmony with others.
 
 Everybody has their stuff, good and bad, and we do ourselves no favor by ignoring or denying the existence of any thought, feeling, impulse inside of us. We're typically not alone in feeling the ways we feel, especially in the areas we may feel that way the most. And anyway, we're not obligated to _do_ anything in particular with any of those thoughts or feelings or impulses, so they're not in themselves any threat to us.
 
-In fact, much of the task of living for all of us is in synthesizing some kind of whole out of the great jumble inside. That process can only take place if we start by _accepting_ what is there. I've found that for me, that self-acceptance requires a certain degree of positive thinking; I have to actually like myself. That's not always easy, and might require really understanding what each part of ourselves needs, or is motivated by. 
+In fact, much of the task of living for all of us is in synthesizing some kind of whole out of the great jumble inside. Not a whole made of crystal, uniform and unchanging throughout, but an organism with many parts working in relative harmony, and reforming over time.
+
+That process can only take place if we accept what is there. I've found that for me, that self-acceptance requires a certain degree of positive thinking; I am constrained to like myself. That's not always easy, and might require really understanding what each part of ourselves needs, or is motivated by.
 
 To the point in the previous section about an accepting, positive environment, for many of us it will be easier to like and accept ourselves if we can experience the genuine care and compassion of another person. Therapy is great for this.
 
@@ -117,7 +120,7 @@ To the point in the previous section about an accepting, positive environment, f
 
 While we owe our evolutionary and cultural inheritance gratitude and a broad deference, there are exceptions.
 
-Death is a tragedy. It is possible for beings like us to be immortal with voluntary death. There is a kind of mass delusion we're under because the alternative is unimaginable. [^bostrom]
+Death is a tragedy. It is possible, in the long run, for beings like us to be immortal. We are under a mass delusion that death is good because the alternative is unimaginable, or too painful to confront. [^bostrom]
 
 There are predictable ways that evolution may fail us. Cases where different tradeoffs may be appropriate for our environment today compared to the past, cases where our values and evolution's diverge, and cases where we can do things that evolution simply could not. [^bostrom2]
 
@@ -145,6 +148,8 @@ Overall, to me, this perspective is optimistic. It gives me hope for humanity—
 [^longnow]: [The Long Now](https://longnow.org/)
 
 [^oliver]: [The Summer Day](https://www.loc.gov/programs/poetry-and-literature/poet-laureate/poet-laureate-projects/poetry-180/all-poems/item/poetry-180-133/the-summer-day/) by Mary Oliver
+
+_I am indebted to [Jeff Harris](https://jeffharr.is/), [Niketa Kumar](http://niketakumar.com/), and [Joy Ding](http://www.joyding.com/) for their feedback on this essay_.
 
 
 
