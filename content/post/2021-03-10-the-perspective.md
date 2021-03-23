@@ -41,6 +41,8 @@ Theoretically this is a nihilistic perspective, but pragmatically, it's an exist
 
 There may not be right answers, but there are still wrong ones: you can be out of alignment with yourself. The task then is to take one's ideas, and hold each one up in the light of the others, and somehow bring them into equilibrium.
 
+And further, we don't make it up out of nothing—it would be impossible for a typical human to avoid drawing on cultural ideas and evolutionary drives in fashioning meaning for themselves. The task is to build a house out of the materials we find around us.
+
 # Values and Utility
 
 Others might diverge from me more substantially here. I find myself sympathetic to a broadly utilitarian or consequentialist understanding of morality. Suffering is bad, and whatever its opposite, let's call it wellbeing, is good.
