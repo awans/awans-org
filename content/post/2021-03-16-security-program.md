@@ -62,11 +62,13 @@ Maybe you're using an SSO service like Okta and using it for critical services a
 
 Infrastructure-wise, you've got your cloud provider hooked up to your SSO service, and you have more than one role that your engineers can act as. You have audit logging turned on for everything in your cloud provider, and all of your cloud services. You're tightly managing any open port into your network, and most if not all of your services are not on the internet.
 
-You have some kind of process for checking your dependencies for CVEs. Github has one, there's AuditJS and dependency-check. You're thinking about running a host-based IDS like Threat Stack.
+You have some kind of process for checking your dependencies for CVEs. Github has one, there's AuditJS and dependency-check. You're thinking about running a host-based IDS like Threat Stack. You probably pay someone once a year for a penetration test. And you've got some kind of vendor-security checklist to make sure your employees are using reputable tools.
 
 You've got some home-grown security sensitive code in your codebase now. It happens! Put a big comment on top of those files that anyone changing them needs to get a security code review. Make a security design review process, too. It's just a quick meeting early on in any large project to sketch out the security concerns.
 
 Get the engineering team in a room once a month for 30 minutes and do a team brainstorm about what's changed lately that could have security impact. This will likely turn up some issues, and will definitely increase your security awareness on the team.
+
+Put together a disaster recovery plan. Write down what sort of outages you're resilient to and which ones kill the company. Make sure you and execs are comfortable with the level of risk here. Maybe enable cross-region S3 replication.
 
 Lastly, you need an incident response plan. You'll figure out what that needs to be, but it's usually worthwhile to separate out some roles. Someone needs to lead the investigation and someone else should be keeping PR, legal, support, execs etc up to date on what the investigation is learning. And then you'll want to do a postmortem, similar to what you probably already do for an outage.
 
@@ -96,3 +98,4 @@ Now you've got people to do this full-time and they're going to do a better job 
 
 Like I said, you might do everything right here and still suffer from hacking, embarrassment, scams and more. But if you followed along to this point, you can at least be confident you thought hard about it, and you made informed, sensible tradeoffs along the way.
 
+_I am indebted to [Kevin Paik](https://www.linkedin.com/in/kevin-paik-4783392b) for feedback on this essay_.
